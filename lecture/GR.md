@@ -4,7 +4,7 @@
 Aim of this course (teaching in English) : We will cover the idea of spacetime and Einstein's special and general 
 theory of relativity, emphasizing the physical intuitions. 
 
-- time: Monday 13:20 - 16:20 (18 weeks; [calendar](/lecture/pdf/2020calendar.pdf))
+- time: Monday 13:20 - 16:20 (18 weeks; [calendar](/lecture/GR_pdf/2020calendar.pdf))
 
 - location: F102 
 
@@ -29,7 +29,7 @@ theory of relativity, emphasizing the physical intuitions.
 *references mentioned during this lecture:*
 1. "Differential geometry and Lie groups for physicists" by Fecko, Marian (available in NTNU library)
 
-[homework](/lecture/pdf/hw_week1.pdf) (due: 9/28)
+[homework](/lecture/GR_pdf/hw_week1.pdf) (due: 9/28)
 
 ### week 2 (9/21)
 special relativity, Lorentz contraction, aberration of light, vector, tensor, covariant/contravariant transformation
