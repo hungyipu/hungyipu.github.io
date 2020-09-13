@@ -1,18 +1,3 @@
----
-author:
- "Hung-Yi Pu"
-date: 2020-08-01
-linktitle: GR
-title: General Relativity (I)
-type:
-- post 
-- posts
-weight: 10
-series:
-- Hugo 101
-aliases:
-- /blog/migrate-from-jekyll/
----
 
 > *Time is an illusion.* - Albert Einstein
 ---
