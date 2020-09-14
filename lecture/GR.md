@@ -16,7 +16,7 @@ theory of relativity, emphasizing the physical intuitions.
 
 
 - main textbook: `"Gravity: An Introduction to Einstein's General Relativity" by James B. Hartle`
-(available in NTNU library; reserved for this course)
+(available in NTNU library; reserved for this course at 1F Gongguan branch)
 
 - online references:
 1. [book list of relativity](https://math.ucr.edu/home/baez/physics/Administrivia/rel_booklist.html) ([copyright](https://math.ucr.edu/home/baez/physics/Administrivia/copyright.html))
