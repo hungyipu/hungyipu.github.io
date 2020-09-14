@@ -27,7 +27,8 @@ theory of relativity, emphasizing the physical intuitions.
 **overview of GR, spacetime geometry, inertial frame and Lorentz transformation, Coordinate and Lorentz invariance, units**
 
 *references mentioned during this lecture:*
-1. "Differential geometry and Lie groups for physicists" by Fecko, Marian (available in NTNU library)
+1. "Flatland: A Romance of Many Dimensions" by Edwin A. Abbott
+2. "Differential geometry and Lie groups for physicists" by Fecko, Marian (available in NTNU library)
 
 [homework](/lecture/GR_pdf/hw_week1.pdf) (due: 9/28)
 
