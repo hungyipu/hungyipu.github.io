@@ -54,7 +54,7 @@ SR revisted, Lorentz contraction, aberration of light, vector, tensor, covariant
 
 ### week 3 (9/28)
 special relativistic kinematics and dynamics, Rindler coordinate
-### week 4
+### week 4 (10/5)
 general relativity: gravity as geometry, local inertial frames
 ### week 5 
 manifold and Riemann geometry, metric tensor, and curved spacetime
