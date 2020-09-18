@@ -47,6 +47,9 @@ theory of relativity, emphasizing the physical intuitions.
 
 ### week 2 (9/21)
 special relativity, Lorentz contraction, aberration of light, vector, tensor, covariant/contravariant transformation
+
+*references mentioned during this lecture:*
+1. ch4 of `Radiative processes in astrophysics` by George B. Rybicki, Alan P. Lightman
 ### week 3 (9/28)
 special relativistic kinematics and dynamics, Rindler coordinate
 ### week 4
