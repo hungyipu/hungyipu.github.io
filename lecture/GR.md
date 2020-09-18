@@ -10,13 +10,26 @@ theory of relativity, emphasizing the physical intuitions.
 
 - scoring: *homework* (30%) + *mid-term exam* (30%; **week 9**) + *final exam* (30%; **week 18**) + *class involvement* (5%) + *others* (5%)
 
+- lecturer: Hung-Yi Pu
+(hypu_at_ntnu.edu.tw)
+
 - TA: Hsiang-Yu Huang
 (siangyu1016_at_gate.sinica.edu.tw)
 
 
 
-- main textbook: `"Gravity: An Introduction to Einstein's General Relativity" by James B. Hartle`
-(available in NTNU library; reserved for this course at 1F Gongguan branch)
+- recommand textbooks (all are available in NTNU library; reserved for this course at 1F Gongguan branch): 
+
+`"Gravity: An Introduction to Einstein's General Relativity" by James B. Hartle`
+
+`"A first course in general relativity" by Bernard Schutz`
+
+`"Exploring Black Holes: Introduction to General Relativity" by Edwin F. Taylor, John A. Wheeler`
+
+`"Gravitation" by Charles W. Misner, Kip S. Thorne, John A. Wheeler`
+
+`"Gravity's fatal attraction : black holes in the universe" by Mitchell Begelman, Martin Rees`
+
 
 - online references:
 1. [book list of relativity](https://math.ucr.edu/home/baez/physics/Administrivia/rel_booklist.html) ([copyright](https://math.ucr.edu/home/baez/physics/Administrivia/copyright.html))
@@ -27,8 +40,8 @@ theory of relativity, emphasizing the physical intuitions.
 **overview of GR, spacetime geometry, inertial frame and Lorentz transformation, Coordinate and Lorentz invariance, units**
 
 *references mentioned during this lecture:*
-1. "Flatland: A Romance of Many Dimensions" by Edwin A. Abbott
-2. "Differential geometry and Lie groups for physicists" by Fecko, Marian (available in NTNU library)
+1. `"Flatland: A Romance of Many Dimensions" by Edwin A. Abbott`
+2. `"Differential geometry and Lie groups for physicists" by Fecko, Marian` (e-book available from NTNU library)
 
 [homework](/lecture/GR_pdf/hw_week1.pdf) (due: 9/28)
 
