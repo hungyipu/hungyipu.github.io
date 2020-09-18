@@ -50,7 +50,7 @@ SR revisted, Lorentz contraction, aberration of light, vector, tensor, covariant
 
 *references mentioned during this lecture:*
 1. ch4 of `Radiative processes in astrophysics` by George B. Rybicki, Alan P. Lightman
-2. `[First-person visualizations of the special and general theory of relativity](https://iopscience.iop.org/article/10.1088/0143-0807/29/1/001)` by U Kraus (European Journal of Physics 2008)
+2. [`First-person visualizations of the special and general theory of relativity`](https://iopscience.iop.org/article/10.1088/0143-0807/29/1/001) by U Kraus (European Journal of Physics 2008)
 ### week 3 (9/28)
 special relativistic kinematics and dynamics, Rindler coordinate
 ### week 4
