@@ -20,15 +20,15 @@ theory of relativity, emphasizing the physical intuitions.
 
 - recommand textbooks (all are **available** in the [NTNU library](http://www.lib.ntnu.edu.tw/video/video.view.jsp?id=369B888E-EF4F-1A4F-B7AB-B9EEB8AAA705); reserved for this course at **1F Gongguan branch**): 
 
-  - `"Gravity: An Introduction to Einstein's General Relativity"' by James B. Hartle
+  - `"Gravity: An Introduction to Einstein's General Relativity"` by James B. Hartle
 
-  - `"A first course in general relativity"' by Bernard Schutz
+  - `"A first course in general relativity"` by Bernard Schutz
 
-  - `"Exploring Black Holes: Introduction to General Relativity"' by Edwin F. Taylor, John A. Wheeler
+  - `"Exploring Black Holes: Introduction to General Relativity"` by Edwin F. Taylor, John A. Wheeler
 
-  - `"Gravitation"' by Charles W. Misner, Kip S. Thorne, John A. Wheeler
+  - `"Gravitation"` by Charles W. Misner, Kip S. Thorne, John A. Wheeler
 
-  - `"Gravity's fatal attraction : black holes in the universe"' by Mitchell Begelman, Martin Rees
+  - `"Gravity's fatal attraction : black holes in the universe"` by Mitchell Begelman, Martin Rees
 
 
 - online references:
