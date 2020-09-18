@@ -32,9 +32,9 @@ theory of relativity, emphasizing the physical intuitions.
 
 
 - online references:
-1. [book list of relativity](https://math.ucr.edu/home/baez/physics/Administrivia/rel_booklist.html) ([copyright](https://math.ucr.edu/home/baez/physics/Administrivia/copyright.html))
-2. [The Genesis and Renaissance of General Relativity (youtube video, public lecture by Jurgen Renn)](https://www.youtube.com/watch?v=bj8rZnOUjWU)
-3. [Einstein for everyone (course website by Prof. John D. Norton at University of Pittsburgh)](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
+  1. [book list of relativity](https://math.ucr.edu/home/baez/physics/Administrivia/rel_booklist.html) ([copyright](https://math.ucr.edu/home/baez/physics/Administrivia/copyright.html))
+  2. [The Genesis and Renaissance of General Relativity (youtube video, public lecture by Jurgen Renn)](https://www.youtube.com/watch?v=bj8rZnOUjWU)
+  3. [Einstein for everyone (course website by Prof. John D. Norton at University of Pittsburgh)](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
 ---
 ### week 1 (9/14)
 **overview of GR, spacetime geometry, inertial frame and Lorentz transformation, Coordinate and Lorentz invariance, units**
