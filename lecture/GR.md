@@ -18,7 +18,7 @@ theory of relativity, emphasizing the physical intuitions.
 
 
 
-- recommand textbooks (all are available in NTNU library; reserved for this course at 1F Gongguan branch): 
+- recommand textbooks (all are **available** in the [NTNU library](http://www.lib.ntnu.edu.tw/video/video.view.jsp?id=369B888E-EF4F-1A4F-B7AB-B9EEB8AAA705); reserved for this course at **1F Gongguan branch**): 
 
 `"Gravity: An Introduction to Einstein's General Relativity" by James B. Hartle`
 
