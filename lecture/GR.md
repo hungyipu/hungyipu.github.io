@@ -37,7 +37,7 @@ theory of relativity, emphasizing the physical intuitions.
   3. [Einstein for everyone (course website by Prof. John D. Norton at University of Pittsburgh)](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
 ---
 ### week 1 (9/14)
-**overview of GR, spacetime geometry, inertial frame and Lorentz transformation, Coordinate and Lorentz invariance, units**
+**overview of SR (Special Relativity) and GR (General Relativity), spacetime geometry, inertial frame and Lorentz transformation, Coordinate and Lorentz invariance, units**
 
 *references mentioned during this lecture:*
 1. `"Flatland: A Romance of Many Dimensions"` by Edwin A. Abbott
@@ -46,7 +46,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week1.pdf) (due: 9/28)
 
 ### week 2 (9/21)
-special relativity, Lorentz contraction, aberration of light, vector, tensor, covariant/contravariant transformation
+SR revisted, Lorentz contraction, aberration of light, vector, tensor, covariant/contravariant transformation
 
 *references mentioned during this lecture:*
 1. ch4 of `Radiative processes in astrophysics` by George B. Rybicki, Alan P. Lightman
