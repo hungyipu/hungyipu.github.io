@@ -1,7 +1,7 @@
 # General Relativity (I)
-<center><img src="/lecture/GR_pdf/embedding_small.gif"></center>
+<p align="center"><img src="/lecture/GR_pdf/embedding_small.gif"></p>
 
-> *Time is an illusion.*      - Albert Einstein  
+> <p align="center">*Time is an illusion.*      - Albert Einstein  </p>
 
 ---
 
