@@ -2,6 +2,7 @@
 > <p align="center"> Time is an illusion.         - Albert Einstein  </p>
 
 <p align="center"><img src="/lecture/GR_pdf/embedding_small.gif"></p>
+
 ---
 
 Aim of this course (teaching in English) : We will cover the idea of spacetime and Einstein's special and general 
