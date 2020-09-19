@@ -1,6 +1,8 @@
 # General Relativity (I)
-> *Time is an illusion.* - Albert Einstein
+<center><img src="/lecture/GR_pdf/embedding_small.gif"></center>
+> <div align="center">*Time is an illusion.*      - Albert Einstein  </div>
 ---
+
 Aim of this course (teaching in English) : We will cover the idea of spacetime and Einstein's special and general 
 theory of relativity, emphasizing the physical intuitions. 
 
