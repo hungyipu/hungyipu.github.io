@@ -59,9 +59,13 @@ SR revisted, Lorentz contraction, aberration of light, vector, tensor, covariant
 [homework](/lecture/GR_pdf/hw_week2a.pdf) (due: 10/5)
 ### week 3 (9/28)
 special relativistic kinematics and dynamics, Rindler coordinate
+*references mentioned during this lecture:*
+1. ch2&3 of `"A first course in general relativity"` by Bernard Schutz
+
+homework
 ### week 4 (10/5)
 general relativity: gravity as geometry, local inertial frames
-### week 5 
+### week 5 (10/12)
 manifold and Riemann geometry, metric tensor, and curved spacetime
 ### week 6
 Ricci tensor, Curvature tensor, Einstein's field equation
