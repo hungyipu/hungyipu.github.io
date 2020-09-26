@@ -62,6 +62,7 @@ special relativistic kinematics and dynamics, Rindler coordinate
 
 *references mentioned during this lecture:*
 1. ch2&3 of `"A first course in general relativity"` by Bernard Schutz
+2. `" Relativity Made Relatively Easy "` by Andrew M. Steane
 
 homework
 ### week 4 (10/5)
