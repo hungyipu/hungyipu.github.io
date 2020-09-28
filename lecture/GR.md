@@ -65,7 +65,7 @@ special relativistic kinematics and dynamics, acceleration in SR, Rindler horizo
 2. `" Relativity Made Relatively Easy"` by Andrew M. Steane
 3. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
 
-[homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/12) *last modified:9/28*
+[homework](/lecture/GR_pdf/hw_week3.pdf) (due: 10/12) *last modified:9/28*
 ### week 4 (10/5)
 general relativity: gravity as geometry, local inertial frames
 ### week 5 (10/12)
