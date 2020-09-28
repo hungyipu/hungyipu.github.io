@@ -56,7 +56,7 @@ SR revisted, Lorentz contraction, aberration of light, vector, tensor, covariant
 1. [`"First-person visualizations of the special and general theory of relativity"`](https://iopscience.iop.org/article/10.1088/0143-0807/29/1/001) by U Kraus (Eur. J. Phys. 2008)
 2. ch4 of `"Radiative processes in astrophysics"` by George B. Rybicki, Alan P. Lightman
 
-[homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/5) last modified:9/28 
+[homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/5) *last modified:9/28* 
 ### week 3 (9/28)
 special relativistic kinematics and dynamics, acceleration in SR, Rindler horizon
 
@@ -65,7 +65,7 @@ special relativistic kinematics and dynamics, acceleration in SR, Rindler horizo
 2. `" Relativity Made Relatively Easy"` by Andrew M. Steane
 3. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
 
-homework [homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/12) last modified:9/28 
+[homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/12) *last modified:9/28*
 ### week 4 (10/5)
 general relativity: gravity as geometry, local inertial frames
 ### week 5 (10/12)
