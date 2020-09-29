@@ -58,7 +58,7 @@ theory of relativity, emphasizing the physical intuitions.
 
 [homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/5) *last modified:9/28* 
 ### week 3 (9/28)
-**covariant/contravariant transformation, tensor, partial and covariant derivitive, Christoffel symbol, idea of geodesic**
+**covariant/contravariant transformation, tensor as a linear mapping machine, partial and covariant derivitive, Christoffel symbol, idea of geodesic**
 
 *further reading:*
 1. ch2&3 of `"A first course in general relativity"` by Bernard Schutz
