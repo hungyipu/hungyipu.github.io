@@ -41,26 +41,26 @@ theory of relativity, emphasizing the physical intuitions.
   3. [Einstein for everyone (course website by Prof. John D. Norton at University of Pittsburgh)](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
 ---
 ### week 1 (9/14)
-**overview of SR (Special Relativity) and GR (General Relativity), spacetime geometry, inertial frame and Lorentz transformation, Coordinate and Lorentz invariance, units**
+**overview of SR (Special Relativity) and GR (General Relativity), spacetime geometry, inertial frame and Lorentz transformation, Coordinate and Lorentz invariance, geometrized units**
 
-*references mentioned during this lecture:*
+*further reading:*
 1. `"Flatland: A Romance of Many Dimensions"` by Edwin A. Abbott
 2. `"Differential geometry and Lie groups for physicists"` by Fecko, Marian (e-book available from NTNU library)
 
 [homework](/lecture/GR_pdf/hw_week1.pdf) (due: 9/28)
 
 ### week 2 (9/21)
-SR revisted, Lorentz contraction, aberration of light, four-vector, pecial relativistic kinematics and dynamics
+**SR revisted, Lorentz contraction, aberration of light, four-vector, special relativistic kinematics and dynamics**
 
-*references mentioned during this lecture:*
+*further reading:*
 1. [`"First-person visualizations of the special and general theory of relativity"`](https://iopscience.iop.org/article/10.1088/0143-0807/29/1/001) by U Kraus (Eur. J. Phys. 2008)
 2. ch4 of `"Radiative processes in astrophysics"` by George B. Rybicki, Alan P. Lightman
 
 [homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/5) *last modified:9/28* 
 ### week 3 (9/28)
-covariant/contravariant transformation s, tensor
+**covariant/contravariant transformation, tensor, partial and covariant derivitive, Christoffel symbol, idea of geodesic**
 
-*references mentioned during this lecture:*
+*further reading:*
 1. ch2&3 of `"A first course in general relativity"` by Bernard Schutz
 
 [homework](/lecture/GR_pdf/hw_week3.pdf) (due: 10/12) *last modified:9/28*
@@ -68,7 +68,7 @@ covariant/contravariant transformation s, tensor
 ### week 4 (10/5)
 acceleration in SR, Rindler horizon, general relativity: gravity as geometry, local inertial frames
 
-*references mentioned during this lecture:*
+*further reading:*
 1. `" Relativity Made Relatively Easy"` by Andrew M. Steane
 2. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
 
