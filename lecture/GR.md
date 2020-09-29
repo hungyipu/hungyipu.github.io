@@ -50,7 +50,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week1.pdf) (due: 9/28)
 
 ### week 2 (9/21)
-SR revisted, Lorentz contraction, aberration of light, vector, tensor, covariant/contravariant transformation
+SR revisted, Lorentz contraction, aberration of light, four-vector, pecial relativistic kinematics and dynamics
 
 *references mentioned during this lecture:*
 1. [`"First-person visualizations of the special and general theory of relativity"`](https://iopscience.iop.org/article/10.1088/0143-0807/29/1/001) by U Kraus (Eur. J. Phys. 2008)
@@ -58,16 +58,21 @@ SR revisted, Lorentz contraction, aberration of light, vector, tensor, covariant
 
 [homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/5) *last modified:9/28* 
 ### week 3 (9/28)
-special relativistic kinematics and dynamics, acceleration in SR, Rindler horizon
+covariant/contravariant transformation s, tensor
 
 *references mentioned during this lecture:*
 1. ch2&3 of `"A first course in general relativity"` by Bernard Schutz
-2. `" Relativity Made Relatively Easy"` by Andrew M. Steane
-3. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
 
 [homework](/lecture/GR_pdf/hw_week3.pdf) (due: 10/12) *last modified:9/28*
+
 ### week 4 (10/5)
-general relativity: gravity as geometry, local inertial frames
+acceleration in SR, Rindler horizon, general relativity: gravity as geometry, local inertial frames
+
+*references mentioned during this lecture:*
+1. `" Relativity Made Relatively Easy"` by Andrew M. Steane
+2. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
+
+
 ### week 5 (10/12)
 manifold and Riemann geometry, metric tensor, and curved spacetime
 ### week 6
