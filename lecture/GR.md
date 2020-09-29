@@ -40,7 +40,7 @@ theory of relativity, emphasizing the physical intuitions.
   2. [The Genesis and Renaissance of General Relativity (youtube video, public lecture by Jurgen Renn)](https://www.youtube.com/watch?v=bj8rZnOUjWU)
   3. [Einstein for everyone (course website by Prof. John D. Norton at University of Pittsburgh)](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
 ---
-### * week 1 (9/14)
+### week 1 (9/14)
 **overview of SR (Special Relativity) and GR (General Relativity), spacetime geometry, inertial frame and Lorentz transformation, Coordinate and Lorentz invariance, geometrized units**
 
 *further reading:*
