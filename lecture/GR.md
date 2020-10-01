@@ -56,7 +56,7 @@ theory of relativity, emphasizing the physical intuitions.
 1. [`"First-person visualizations of the special and general theory of relativity"`](https://iopscience.iop.org/article/10.1088/0143-0807/29/1/001) by U Kraus (Eur. J. Phys. 2008)
 2. ch4 of `"Radiative processes in astrophysics"` by George B. Rybicki, Alan P. Lightman
 
-[homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/5) *last modified:9/28* 
+[homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/5) *last modified:10/2 (fixing typos)* 
 ### week 3 (9/28)
 **covariant/contravariant transformation, tensor as a linear mapping machine, partial and covariant derivitive, Christoffel symbol, idea of geodesic**
 
