@@ -72,10 +72,11 @@ acceleration in SR, Rindler horizon, general relativity: gravity as geometry, lo
 1. `" Relativity Made Relatively Easy"` by Andrew M. Steane
 2. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
 
+[homework](/lecture/GR_pdf/hw_week4.pdf) (due: 10/19) *last modified:10/4*
 
 ### week 5 (10/12)
 manifold and Riemann geometry, metric tensor, and curved spacetime
-### week 6
+### week 6 (10/19)
 Ricci tensor, Curvature tensor, Einstein's field equation
 ### week 7
 examples of spacetime metrics: Oppenheimer-Snyder collapse, Schwarzschild metric, warp drive
