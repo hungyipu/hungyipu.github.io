@@ -66,7 +66,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week3.pdf) (due: 10/12) *last modified:9/28*
 
 ### week 4 (10/5)
-**acceleration in SR, Rindler horizon,  equivalence principle, manifold, local inertial frames, Riemann curvature tensor*
+**acceleration in SR, Rindler horizon,  equivalence principle, manifold, local inertial frames, Riemann curvature tensor**
 
 *further reading:*
 1. `" Relativity Made Relatively Easy"` by Andrew M. Steane
