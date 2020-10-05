@@ -61,21 +61,23 @@ theory of relativity, emphasizing the physical intuitions.
 **covariant/contravariant transformation, tensor as a linear mapping machine, partial and covariant derivitive, Christoffel symbol, idea of geodesic**
 
 *further reading:*
-1. ch2&3 of `"A first course in general relativity"` by Bernard Schutz
+1. ch 2&3 of `"A first course in general relativity"` by Bernard Schutz
 
 [homework](/lecture/GR_pdf/hw_week3.pdf) (due: 10/12) *last modified:9/28*
 
 ### week 4 (10/5)
-acceleration in SR, Rindler horizon, general relativity: gravity as geometry, local inertial frames
+**acceleration in SR, Rindler horizon,  equivalence principle, manifold, local inertial frames, Riemann curvature tensor*
 
 *further reading:*
 1. `" Relativity Made Relatively Easy"` by Andrew M. Steane
 2. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
+4. ch 4.6 of `"A first course in general relativity"` by Bernard Schutz
 
 [homework](/lecture/GR_pdf/hw_week4.pdf) (due: 10/19) *last modified:10/4*
 
 ### week 5 (10/12)
-manifold and Riemann geometry, metric tensor, and curved spacetime
+Riemann geometry, metric tensor, and curved spacetime
+
 ### week 6 (10/19)
 Ricci tensor, Curvature tensor, Einstein's field equation
 ### week 7
