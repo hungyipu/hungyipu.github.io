@@ -37,8 +37,11 @@ theory of relativity, emphasizing the physical intuitions.
 
 - online references:
   1. [book list of relativity](https://math.ucr.edu/home/baez/physics/Administrivia/rel_booklist.html) ([copyright](https://math.ucr.edu/home/baez/physics/Administrivia/copyright.html))
-  2. [The Genesis and Renaissance of General Relativity (youtube video, public lecture by Jurgen Renn)](https://www.youtube.com/watch?v=bj8rZnOUjWU)
-  3. [Einstein for everyone (course website by Prof. John D. Norton at University of Pittsburgh)](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
+  2. [The Genesis and Renaissance of General Relativity](https://www.youtube.com/watch?v=bj8rZnOUjWU) (youtube video, public lecture by Jurgen Renn)
+  3. [Einstein for everyone](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html) (course website by Prof. John D. Norton)
+  4. [Theoretical Minimum] (http://theoreticalminimum.com/courses/general-relativity/2012/fall) (website of Prof. Leonard Susskind)
+  5. [Catalogue of Spacetimes](https://arxiv.org/abs/0904.4184) [worksheets](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes)(a collection of well-known spacetimes in GR by Thomas Mueller and Frank Grave)
+
 ---
 ### week 1 (9/14)
 **overview of SR (Special Relativity) and GR (General Relativity), spacetime geometry, inertial frame and Lorentz transformation, Coordinate and Lorentz invariance, geometrized units**
