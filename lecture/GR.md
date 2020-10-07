@@ -41,6 +41,7 @@ theory of relativity, emphasizing the physical intuitions.
   3. [Einstein for everyone](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html) (course website by Prof. John D. Norton)
   4. [Theoretical Minimum](http://theoreticalminimum.com/courses/general-relativity/2012/fall) (website of Prof. Leonard Susskind)
   5. [Catalogue of Spacetimes](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes)(a collection of well-known spacetimes in GR by Thomas Mueller and Frank Grave)
+  6. 2015 - General Relativity’s Centennial(https://journals.aps.org/general-relativity-centennial) by Physical Review Journals
 
 ---
 ### week 1 (9/14)
