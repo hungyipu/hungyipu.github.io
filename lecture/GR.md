@@ -80,14 +80,17 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week4.pdf) (due: 10/19) *last modified:10/4*
 
 ### week 5 (10/12)
-curvature tensor and beyond (Ricci tensor, Ricci scalar, Einstein tensor), stress-energy tensor, field equation, wormhole and time travel, energy condition
+curvature tensor and beyond (Ricci tensor, Ricci scalar, Einstein tensor), stress-energy tensor, Einstein's field equation, wormhole and time travel, energy condition
 
 ### week 6 (10/19)
-Ricci tensor, Curvature tensor, Einstein's field equation
-### week 7
-examples of spacetime metrics: Oppenheimer-Snyder collapse, Schwarzschild metric, warp drive
-### week 8
 geodesics, more tensor computations, tetrad
+
+### week 7
+More spacetime metrics: Oppenheimer-Snyder collapse, Schwarzschild metric, warp drive
+
+### week 8
+review
+
 ### week 9
 midterm exam
 ### week 10
