@@ -80,7 +80,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week4.pdf) (due: 10/19) *last modified:10/4*
 
 ### week 5 (10/12)
-Riemann geometry, metric tensor, and curved spacetime
+curvature tensor and related tensors (), stress-energy, tensor, wormhole and time travel, energy condition
 
 ### week 6 (10/19)
 Ricci tensor, Curvature tensor, Einstein's field equation
