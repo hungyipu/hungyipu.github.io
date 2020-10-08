@@ -85,31 +85,40 @@ curvature tensor and beyond (Ricci tensor, Ricci scalar, Einstein tensor), stres
 ### week 6 (10/19)
 geodesics, more tensor computations, tetrad
 
-### week 7
+### week 7 (10/26)
 More spacetime metrics: Oppenheimer-Snyder collapse, Schwarzschild metric, warp drive
 
-### week 8
+### week 8 (11/2)
 review
 
-### week 9
+### week 9 (11/9)
 midterm exam
-### week 10
+
+### week 10 (11/16)
 solving the spacetime geometry outside a spherical star, Birkhoff's theorm
-### week 11
+
+### week 11 (11/23)
 Newtonian approximation, solar system tests of GR
-### week 12
+
+### week 12 (11/30)
 black holes, horizons, gravitational redshift, Penrose diagram
-### week 13
+
+### week 13 (12/7)
 Kerr metric and rotating black holes, frame-dragging, black hole shadow, membrane paradigm
-### week 14
+
+### week 14 (12/14)
 gravitational wave physics, quasi-normal modes, numerical relativity
-### week 15
+
+### week 15 (12/21)
 cosmological models
-### week 16
+
+### week 16 (12/28)
 selected topic: relativistic effects in astrophysics
-### week 17
+
+### week 17 (1/4)
 selected topic: time travel, Lagrangian formulation of GR, alternative gravity
-### week 18
+
+### week 18 (1/11)
 final exam
 
 
