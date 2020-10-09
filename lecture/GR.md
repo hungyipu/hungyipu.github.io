@@ -73,7 +73,7 @@ theory of relativity, emphasizing the physical intuitions.
 **acceleration in SR, Rindler horizon,  equivalence principle, manifold, local inertial frames, Riemann curvature tensor**
 
 *further reading:*
-1. `" Relativity Made Relatively Easy"` by Andrew M. Steane
+1. `"Relativity Made Relatively Easy"` by Andrew M. Steane
 2. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
 4. ch 4.6 of `"A first course in general relativity"` by Bernard Schutz
 
@@ -81,6 +81,9 @@ theory of relativity, emphasizing the physical intuitions.
 
 ### week 5 (10/12)
 curvature tensor and beyond (Ricci tensor, Ricci scalar, Einstein tensor), stress-energy tensor, Einstein's field equation, wormhole and time travel, energy condition
+
+*further reading:*
+1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
 
 ### week 6 (10/19)
 geodesics, more tensor computations, tetrad
