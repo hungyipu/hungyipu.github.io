@@ -80,10 +80,11 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week4.pdf) (due: 10/19) *last modified:10/4*
 
 ### week 5 (10/12)
-curvature tensor and beyond (Ricci tensor, Ricci scalar, Einstein tensor), stress-energy tensor, Einstein's field equation, wormhole and time travel, energy condition
+curvature tensor and beyond (Ricci tensor, Ricci scalar, Einstein tensor), stress-energy tensor, Einstein's field equation, energy condition, traversable wormhole, time travel to the past, closed time-like curve
 
 *further reading:*
 1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
+2. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
 
 ### week 6 (10/19)
 geodesics, more tensor computations, tetrad
