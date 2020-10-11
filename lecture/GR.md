@@ -78,7 +78,7 @@ theory of relativity, emphasizing the physical intuitions.
 2. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
 4. ch 4.6 of `"A first course in general relativity"` by Bernard Schutz
 
-[homework](/lecture/GR_pdf/hw_week4.pdf) (due: 10/19) *last modified:10/4*
+[homework](/lecture/GR_pdf/hw_week4.pdf) (due: 10/19) *last modified:10/11*
 
 ### week 5 (10/12)
 curvature tensor and beyond (Ricci tensor, Ricci scalar, Einstein tensor), stress-energy tensor, Einstein's field equation, energy condition, traversable wormhole, time travel to the past, closed time-like curve
@@ -86,6 +86,8 @@ curvature tensor and beyond (Ricci tensor, Ricci scalar, Einstein tensor), stres
 *further reading:*
 1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
 2. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
+
+[homework](/lecture/GR_pdf/hw_week5.pdf) (due: 10/26) *last modified:10/11*
 
 ### week 6 (10/19)
 geodesics, more tensor computations, tetrad
