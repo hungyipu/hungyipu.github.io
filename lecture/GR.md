@@ -42,6 +42,7 @@ theory of relativity, emphasizing the physical intuitions.
   4. [Theoretical Minimum](http://theoreticalminimum.com/courses/general-relativity/2012/fall) (website of Prof. Leonard Susskind)
   5. [Catalogue of Spacetimes](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes)(a collection of well-known spacetimes in GR by Thomas Mueller and Frank Grave)
   6. [2015 - General Relativity’s Centennial](https://journals.aps.org/general-relativity-centennial) by Physical Review Journals
+  7. [Webinars](http://bhpire.arizona.edu/education/webinars/) organized by the [Black Hole PIRE](http://bhpire.arizona.edu/pire/)
 
 ---
 ### week 1 (9/14)
