@@ -101,7 +101,7 @@ EFE compared with Poission's equation, equation of motion from stree-energy tens
 *further reading:*
 1. [`"Physics Nobel Awarded for Black Hole Breakthroughs"`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
 2. [`"On Continued Gravitational Contraction"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455) by J. R. Oppenheimer and H. Snyder (1939)
-3. [`"Gravitational Collapse and Space-Time Singularities"`](Gravitational Collapse and Space-Time Singularities) by Roger Penrose (1965)
+3. [`"Gravitational Collapse and Space-Time Singularities"`](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.14.57) by Roger Penrose (1965)
 
 
 ### week 8 (11/2)
