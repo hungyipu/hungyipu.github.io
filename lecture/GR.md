@@ -96,10 +96,16 @@ EFE compared with Poission's equation, equation of motion from stree-energy tens
 2. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
 
 ### week 7 (10/26)
-More spacetime metrics: Oppenheimer-Snyder collapse, Schwarzschild metric, warp drive, tetrad
+2020 Noble prize in physics, gravitational collapse, Schwarzschild metric, spacetime singularity
+
+*further reading:*
+1. [`"Physics Nobel Awarded for Black Hole Breakthroughs"`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
+2. [`"On Continued Gravitational Contraction"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455) by J. R. Oppenheimer and H. Snyder (1939)
+3. [`"Gravitational Collapse and Space-Time Singularities"`](Gravitational Collapse and Space-Time Singularities) by Roger Penrose (1965)
+
 
 ### week 8 (11/2)
-review
+review, warp drive, tetrad etc.
 
 ### week 9 (11/9)
 midterm exam
