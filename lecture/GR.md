@@ -61,14 +61,14 @@ theory of relativity, emphasizing the physical intuitions.
 1. [`"First-person visualizations of the special and general theory of relativity"`](https://iopscience.iop.org/article/10.1088/0143-0807/29/1/001) by U Kraus (Eur. J. Phys. 2008)
 2. ch4 of `"Radiative processes in astrophysics"` by George B. Rybicki, Alan P. Lightman
 
-[homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/5) *last modified:10/2 (fixing typos)* 
+[homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/5) *version:10/2 (fixing typos)* 
 ### week 3 (9/28)
 **covariant/contravariant transformation, tensor as a linear mapping machine, partial and covariant derivitive, Christoffel symbol, idea of geodesic**
 
 *further reading:*
 1. ch 2&3 of `"A first course in general relativity"` by Bernard Schutz
 
-[homework](/lecture/GR_pdf/hw_week3.pdf) (due: 10/12) *last modified:9/28*
+[homework](/lecture/GR_pdf/hw_week3.pdf) (due: 10/12) *version:9/28*
 
 ### week 4 (10/5)
 **acceleration in SR, Rindler horizon,  equivalence principle, manifold, local inertial frames, Riemann curvature tensor**
@@ -78,12 +78,15 @@ theory of relativity, emphasizing the physical intuitions.
 2. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
 4. ch 4.6 of `"A first course in general relativity"` by Bernard Schutz
 
-[homework](/lecture/GR_pdf/hw_week4.pdf) (due: 10/19) *last modified:10/11*
+[homework](/lecture/GR_pdf/hw_week4.pdf) (due: 10/19) *version:10/11*
 
 ### week 5 (10/12)
 **curvature tensor and beyond (Ricci tensor, Ricci scalar, Einstein tensor), stress-energy tensor, Einstein's field equation (EFE), review of tensor calaulations and geodesics**
 
-homework (due: 10/26) *last modified:10/11*
+*further reading:*
+1. ch 8 of `"Albert Einstein: Creator and Rebel"` by Banesh Hoffmann (story of how Einstein reached the field equation)
+
+[homework](/lecture/GR_pdf/hw_week5.pdf) (due: 10/26) *version:10/13*
 
 ### week 6 (10/19)
 EFE compared with Poission's equation, equation of motion from stree-energy tensor, energy condition, traversable wormhole, time travel to the past, closed time-like curve
