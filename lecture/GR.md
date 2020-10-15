@@ -96,7 +96,7 @@ EFE compared with Poission's equation, equation of motion from stree-energy tens
 2. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
 3. [`"The warp drive: hyper-fast travel within general relativity"`](https://iopscience.iop.org/article/10.1088/0264-9381/11/5/001) by Miguel Alcubierre (1994)
 
-[homework](/lecture/GR_pdf/hw_week5.pdf) (due: 11/2)
+[homework](/lecture/GR_pdf/hw_week6.pdf) (due: 11/2)
 
 ### week 7 (10/26)
 2020 Noble prize in physics, gravitational collapse, Schwarzschild metric, spacetime singularity
