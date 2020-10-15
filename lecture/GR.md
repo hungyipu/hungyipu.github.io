@@ -86,7 +86,7 @@ theory of relativity, emphasizing the physical intuitions.
 *further reading:*
 1. ch 8 of `"Albert Einstein: Creator and Rebel"` by Banesh Hoffmann (story of how Einstein reached the field equation)
 
-[homework](/lecture/GR_pdf/hw_week5.pdf) (due: 10/26) *version:10/13*
+[homework](/lecture/GR_pdf/hw_week5.pdf) (due: 10/26) *version:10/15 (typo fixed)*
 
 ### week 6 (10/19)
 EFE compared with Poission's equation, equation of motion from stree-energy tensor, energy condition, traversable wormhole, time travel to the past, closed time-like curve, warp drive
@@ -95,6 +95,8 @@ EFE compared with Poission's equation, equation of motion from stree-energy tens
 1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
 2. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
 3. [`"The warp drive: hyper-fast travel within general relativity"`](https://iopscience.iop.org/article/10.1088/0264-9381/11/5/001) by Miguel Alcubierre (1994)
+
+[homework](/lecture/GR_pdf/hw_week5.pdf) (due: 11/2)
 
 ### week 7 (10/26)
 2020 Noble prize in physics, gravitational collapse, Schwarzschild metric, spacetime singularity
@@ -108,6 +110,7 @@ EFE compared with Poission's equation, equation of motion from stree-energy tens
 ### week 8 (11/2)
 review, tetrad etc.
 
+*no homework*
 ### week 9 (11/9)
 midterm exam
 
