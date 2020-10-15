@@ -106,7 +106,7 @@ EFE compared with Poission's equation, equation of motion from stree-energy tens
 
 
 ### week 8 (11/2)
-review, warp drive, tetrad etc.
+review, tetrad etc.
 
 ### week 9 (11/9)
 midterm exam
