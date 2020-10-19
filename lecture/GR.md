@@ -103,6 +103,9 @@ EFE from LHS to RHS: traversable wormhole and warp drive, energy condition,  clo
 *further reading:*
 1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
 2. [`"The warp drive: hyper-fast travel within general relativity"`](https://iopscience.iop.org/article/10.1088/0264-9381/11/5/001) by Miguel Alcubierre (1994)
+3. `"Exact solutions of Einstein's equations"` by Hans Stephani, Dietrich Kramer, Malcolm MacCallum, Cornelius Hoenselaers, and Eduard Herlt
+3. `"Selected Solutions of Einstein’s Field Equations: Their Role in General Relativity and Astrophysics"` by Jiri Bicak
+
 
 
 ### week 8 (11/2)
