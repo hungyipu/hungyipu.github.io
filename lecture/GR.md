@@ -92,7 +92,8 @@ theory of relativity, emphasizing the physical intuitions.
 **from stree-energy tensor to equation of motion, EFE compared with Poission's equation, Schwarzschild metric and weak field limit, stress-energy tensor beyond perfect fluid, time travel to the past**
 
 *further reading:*
-1. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
+1. [`"Accretion Physics"`](http://bhpire.arizona.edu/2020/10/06/astrophysics-empowered-by-the-eht-accretion-physics-session-1/) online talk by Ramesh Narayan
+2. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
 
 [homework](/lecture/GR_pdf/hw_week6.pdf) (due: 11/2) *version:10/15*
 
