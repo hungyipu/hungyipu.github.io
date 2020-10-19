@@ -89,23 +89,23 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week5.pdf) (due: 10/26) *version:10/15 (typo fixed)*
 
 ### week 6 (10/19)
-EFE compared with Poission's equation, equation of motion from stree-energy tensor, energy condition, traversable wormhole, time travel to the past, closed time-like curve, warp drive
+**from stree-energy tensor to equation of motion, EFE compared with Poission's equation, Schwarzschild metric and weak field limit, stress-energy tensor beyond perfect fluid, time travel to the past**
 
 *further reading:*
-1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
-2. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
-3. [`"The warp drive: hyper-fast travel within general relativity"`](https://iopscience.iop.org/article/10.1088/0264-9381/11/5/001) by Miguel Alcubierre (1994)
+1. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
 
 [homework](/lecture/GR_pdf/hw_week6.pdf) (due: 11/2) *version:10/15*
 
 ### week 7 (10/26)
-2020 Noble prize in physics, gravitational collapse, Schwarzschild metric, spacetime singularity
+EFE from LHS to RHS: traversable wormhole and warp drive, energy condition,  closed time-like curve, 2020 Noble prize in physics, gravitational collapse, spacetime singularity
 
 *further reading:*
-1. [`Physics Nobel Awarded for Black Hole Breakthroughs`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
-2. [`"On Continued Gravitational Contraction"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455) by J. R. Oppenheimer and H. Snyder (1939)
-3. [`"Gravitational Collapse and Space-Time Singularities"`](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.14.57) by Roger Penrose (1965)
-4. [`Is Mathematics Invented or Discovered?`](https://www.youtube.com/watch?v=ujvS2K06dg4) (youtube vedio; interview with Roger Penrose)
+1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
+2. [`"The warp drive: hyper-fast travel within general relativity"`](https://iopscience.iop.org/article/10.1088/0264-9381/11/5/001) by Miguel Alcubierre (1994)
+3. [`Physics Nobel Awarded for Black Hole Breakthroughs`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
+4. [`"On Continued Gravitational Contraction"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455) by J. R. Oppenheimer and H. Snyder (1939)
+5. [`"Gravitational Collapse and Space-Time Singularities"`](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.14.57) by Roger Penrose (1965)
+6. [`Is Mathematics Invented or Discovered?`](https://www.youtube.com/watch?v=ujvS2K06dg4) (youtube vedio; interview with Roger Penrose)
 
 
 ### week 8 (11/2)
