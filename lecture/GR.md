@@ -106,7 +106,7 @@ EFE from LHS to RHS: traversable wormhole and warp drive, energy condition,  clo
 3. `"Exact solutions of Einstein's equations"` by Hans Stephani, Dietrich Kramer, Malcolm MacCallum, Cornelius Hoenselaers, and Eduard Herlt
 3. `"Selected Solutions of Einstein’s Field Equations: Their Role in General Relativity and Astrophysics"` by Jiri Bicak
 
-
+[homework](/lecture/GR_pdf/hw_week7.pdf) (due: 11/9)
 
 ### week 8 (11/2)
 2020 Noble prize in physics, gravitational collapse, spacetime singularity, review, tetrad etc.
