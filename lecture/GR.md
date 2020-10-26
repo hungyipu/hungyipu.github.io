@@ -109,7 +109,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week7.pdf) (due: 11/9)
 
 ### week 8 (11/2)
-review, homework Q&A 
+**review, homework Q&A **
 
 1. [`Physics Nobel Awarded for Black Hole Breakthroughs`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
 2. [`"On Continued Gravitational Contraction"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455) by J. R. Oppenheimer and H. Snyder (1939)
