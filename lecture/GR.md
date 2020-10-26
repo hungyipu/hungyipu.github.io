@@ -98,7 +98,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week6.pdf) (due: 11/2) *version:10/15*
 
 ### week 7 (10/26)
-**EFE from LHS to RHS: traversable wormhole and warp drive, energy condition, closed time-like curve, EFE from LHS to RHS: Schwarzschild geometry, time dilation **
+**EFE from LHS to RHS (traversable wormhole and warp drive), energy condition, closed time-like curve, EFE from LHS to RHS (Schwarzschild geometry), time dilation **
 
 *further reading:*
 1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
