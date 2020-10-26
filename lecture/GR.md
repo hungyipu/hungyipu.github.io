@@ -98,7 +98,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week6.pdf) (due: 11/2) *version:10/15*
 
 ### week 7 (10/26)
-EFE from LHS to RHS: traversable wormhole and warp drive, energy condition,  closed time-like curve, gravitational time dilation
+**EFE from LHS to RHS: traversable wormhole and warp drive, energy condition, closed time-like curve, EFE from LHS to RHS: Schwarzschild geometry, time dilation, **
 
 *further reading:*
 1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
@@ -109,7 +109,7 @@ EFE from LHS to RHS: traversable wormhole and warp drive, energy condition,  clo
 [homework](/lecture/GR_pdf/hw_week7.pdf) (due: 11/9)
 
 ### week 8 (11/2)
-2020 Noble prize in physics, gravitational collapse, spacetime singularity, review, tetrad etc.
+review, homework Q&A 
 
 1. [`Physics Nobel Awarded for Black Hole Breakthroughs`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
 2. [`"On Continued Gravitational Contraction"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455) by J. R. Oppenheimer and H. Snyder (1939)
@@ -118,11 +118,12 @@ EFE from LHS to RHS: traversable wormhole and warp drive, energy condition,  clo
 
 
 *no homework*
+
 ### week 9 (11/9)
 midterm exam
 
 ### week 10 (11/16)
-solving the spacetime geometry outside a spherical star, Birkhoff's theorm
+2020 Noble prize in physics, gravitational collapse, spacetime singularity, Birkhoff's theorm, tetrad
 
 ### week 11 (11/23)
 Newtonian approximation, solar system tests of GR
