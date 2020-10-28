@@ -40,9 +40,8 @@ theory of relativity, emphasizing the physical intuitions.
   2. [The Genesis and Renaissance of General Relativity](https://www.youtube.com/watch?v=bj8rZnOUjWU) (youtube video, public lecture by Jurgen Renn)
   3. [Einstein for everyone](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html) (course website by Prof. John D. Norton)
   4. [Theoretical Minimum](http://theoreticalminimum.com/courses/general-relativity/2012/fall) (website of Prof. Leonard Susskind)
-  5. [Catalogue of Spacetimes](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes)(a collection of well-known spacetimes in GR by Thomas Mueller and Frank Grave)
-  6. [2015 - General Relativity’s Centennial](https://journals.aps.org/general-relativity-centennial) by Physical Review Journals
-  7. [Webinars](http://bhpire.arizona.edu/education/webinars/) organized by the [Black Hole PIRE](http://bhpire.arizona.edu/pire/)
+  5. [2015 - General Relativity’s Centennial](https://journals.aps.org/general-relativity-centennial) by Physical Review Journals
+  6. [Webinars](http://bhpire.arizona.edu/education/webinars/) organized by the [Black Hole PIRE](http://bhpire.arizona.edu/pire/)
 
 ---
 ### week 1 (9/14)
@@ -103,19 +102,13 @@ theory of relativity, emphasizing the physical intuitions.
 *further reading:*
 1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
 2. [`"The warp drive: hyper-fast travel within general relativity"`](https://iopscience.iop.org/article/10.1088/0264-9381/11/5/001) by Miguel Alcubierre (1994)
-3. `"Exact solutions of Einstein's equations"` by Hans Stephani, Dietrich Kramer, Malcolm MacCallum, Cornelius Hoenselaers, and Eduard Herlt
-3. `"Selected Solutions of Einstein’s Field Equations: Their Role in General Relativity and Astrophysics"` by Jiri Bicak
 
 [homework](/lecture/GR_pdf/hw_week7.pdf) (due: 11/9)
 
 ### week 8 (11/2)
 **review, homework Q&A**
-
-1. [`Physics Nobel Awarded for Black Hole Breakthroughs`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
-2. [`"On Continued Gravitational Contraction"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455) by J. R. Oppenheimer and H. Snyder (1939)
-3. [`"Gravitational Collapse and Space-Time Singularities"`](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.14.57) by Roger Penrose (1965)
-4. [`Is Mathematics Invented or Discovered?`](https://www.youtube.com/watch?v=ujvS2K06dg4) (youtube vedio; interview with Roger Penrose)
-
+1. [Finding and using exact solutions of the Einstein equations](https://arxiv.org/abs/gr-qc/0601102) (methods used to find solutions of Einstein's field equations by MacCallum)
+2. [Catalogue of Spacetimes](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes)(a collection of well-known spacetimes in GR by Thomas Mueller and Frank Grave)
 
 *no homework*
 
@@ -124,6 +117,11 @@ midterm exam
 
 ### week 10 (11/16)
 2020 Noble prize in physics, gravitational collapse, spacetime singularity, Birkhoff's theorm, tetrad
+
+1. [`Physics Nobel Awarded for Black Hole Breakthroughs`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
+2. [`"On Continued Gravitational Contraction"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455) by J. R. Oppenheimer and H. Snyder (1939)
+3. [`"Gravitational Collapse and Space-Time Singularities"`](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.14.57) by Roger Penrose (1965)
+4. [`Is Mathematics Invented or Discovered?`](https://www.youtube.com/watch?v=ujvS2K06dg4) (youtube vedio; interview with Roger Penrose)
 
 ### week 11 (11/23)
 Newtonian approximation, solar system tests of GR
