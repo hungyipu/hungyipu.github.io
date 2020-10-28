@@ -107,8 +107,8 @@ theory of relativity, emphasizing the physical intuitions.
 
 ### week 8 (11/2)
 **review, homework Q&A**
-1. [Finding and using exact solutions of the Einstein equations](https://arxiv.org/abs/gr-qc/0601102) (methods used to find solutions of Einstein's field equations by MacCallum)
-2. [Catalogue of Spacetimes](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes)(a collection of well-known spacetimes in GR by Thomas Mueller and Frank Grave)
+1. [Finding and using exact solutions of the Einstein equations](https://arxiv.org/abs/gr-qc/0601102)  by MacCallum (methods used to find solutions of Einstein's field equations)
+2. [Catalogue of Spacetimes](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes) by Thomas Mueller and Frank Grave (a collection of well-known spacetimes in GR )
 
 *no homework*
 
