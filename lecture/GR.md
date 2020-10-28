@@ -35,7 +35,7 @@ theory of relativity, emphasizing the physical intuitions.
   - `"Gravity's fatal attraction : black holes in the universe"` by Mitchell Begelman, Martin Rees
 
 
-- online references:
+- online resources:
   1. [book list of relativity](https://math.ucr.edu/home/baez/physics/Administrivia/rel_booklist.html) ([copyright](https://math.ucr.edu/home/baez/physics/Administrivia/copyright.html))
   2. [The Genesis and Renaissance of General Relativity](https://www.youtube.com/watch?v=bj8rZnOUjWU) (youtube video, public lecture by Jurgen Renn)
   3. [Einstein for everyone](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html) (course website by Prof. John D. Norton)
