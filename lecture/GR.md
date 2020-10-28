@@ -40,8 +40,9 @@ theory of relativity, emphasizing the physical intuitions.
   2. [The Genesis and Renaissance of General Relativity](https://www.youtube.com/watch?v=bj8rZnOUjWU) (youtube video, public lecture by Jurgen Renn)
   3. [Einstein for everyone](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html) (course website by Prof. John D. Norton)
   4. [Theoretical Minimum](http://theoreticalminimum.com/courses/general-relativity/2012/fall) (website of Prof. Leonard Susskind)
-  5. [2015 - General Relativity’s Centennial](https://journals.aps.org/general-relativity-centennial) by Physical Review Journals
-  6. [Webinars](http://bhpire.arizona.edu/education/webinars/) organized by the [Black Hole PIRE](http://bhpire.arizona.edu/pire/)
+  5. [Living Reviews in Relativity](https://www.springer.com/journal/41114) (reviews of research in all areas of relativity)
+  6. [2015 - General Relativity’s Centennial](https://journals.aps.org/general-relativity-centennial) by Physical Review Journals
+  7. [Webinars](http://bhpire.arizona.edu/education/webinars/) organized by the [Black Hole PIRE](http://bhpire.arizona.edu/pire/)
 
 ---
 ### week 1 (9/14)
