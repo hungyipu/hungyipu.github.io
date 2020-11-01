@@ -52,7 +52,7 @@ theory of relativity, emphasizing the physical intuitions.
 1. `"Flatland: A Romance of Many Dimensions"` by Edwin A. Abbott
 2. `"Differential geometry and Lie groups for physicists"` by Fecko, Marian (e-book available from NTNU library)
 
-[homework](/lecture/GR_pdf/hw_week1.pdf) (due: 9/28)
+[homework](/lecture/GR_pdf/hw_week1.pdf) (due: week 3)
 
 ### week 2 (9/21)
 **SR revisted, Lorentz contraction, aberration of light, four-vector, special relativistic kinematics and dynamics**
@@ -61,14 +61,14 @@ theory of relativity, emphasizing the physical intuitions.
 1. [`"First-person visualizations of the special and general theory of relativity"`](https://iopscience.iop.org/article/10.1088/0143-0807/29/1/001) by U Kraus (Eur. J. Phys. 2008)
 2. ch4 of `"Radiative processes in astrophysics"` by George B. Rybicki, Alan P. Lightman
 
-[homework](/lecture/GR_pdf/hw_week2.pdf) (due: 10/5) *version:10/2 (fixing typos)* 
+[homework](/lecture/GR_pdf/hw_week2.pdf) (due: week 4) *version:10/2 (fixing typos)* 
 ### week 3 (9/28)
 **covariant/contravariant transformation, tensor as a linear mapping machine, partial and covariant derivitive, Christoffel symbol, idea of geodesic**
 
 *further reading:*
 1. ch 2&3 of `"A first course in general relativity"` by Bernard Schutz
 
-[homework](/lecture/GR_pdf/hw_week3.pdf) (due: 10/12) *version:9/28*
+[homework](/lecture/GR_pdf/hw_week3.pdf) (due: week 5) *version:9/28*
 
 ### week 4 (10/5)
 **acceleration in SR, Rindler horizon,  equivalence principle, manifold, local inertial frames, Riemann curvature tensor**
@@ -78,7 +78,7 @@ theory of relativity, emphasizing the physical intuitions.
 2. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
 4. ch 4.6 of `"A first course in general relativity"` by Bernard Schutz
 
-[homework](/lecture/GR_pdf/hw_week4.pdf) (due: 10/19) *version:10/11*
+[homework](/lecture/GR_pdf/hw_week4.pdf) (due: week 6) *version:10/11*
 
 ### week 5 (10/12)
 **curvature tensor and beyond (Ricci tensor, Ricci scalar, Einstein tensor), stress-energy tensor, Einstein's field equation (EFE), review of tensor calaulations and geodesics**
@@ -86,7 +86,7 @@ theory of relativity, emphasizing the physical intuitions.
 *further reading:*
 1. ch 8 of `"Albert Einstein: Creator and Rebel"` by Banesh Hoffmann (story of how Einstein reached the field equation)
 
-[homework](/lecture/GR_pdf/hw_week5.pdf) (due: 10/26) *version:10/15 (typo fixed)*
+[homework](/lecture/GR_pdf/hw_week5.pdf) (due: week 7) *version:10/15 (typo fixed)*
 
 ### week 6 (10/19)
 **from stree-energy tensor to equation of motion, EFE compared with Poission's equation, Schwarzschild metric and weak field limit, stress-energy tensor beyond perfect fluid, time travel to the past**
@@ -95,7 +95,7 @@ theory of relativity, emphasizing the physical intuitions.
 1. [`"Black Hole Accretion Physics"`](http://bhpire.arizona.edu/2020/10/06/astrophysics-empowered-by-the-eht-accretion-physics-session-1/) online talk by Ramesh Narayan
 2. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
 
-[homework](/lecture/GR_pdf/hw_week6.pdf) (due: 11/2) *version:10/15*
+[homework](/lecture/GR_pdf/hw_week6.pdf) (due: week 8) *version:10/15*
 
 ### week 7 (10/26)
 **EFE from LHS to RHS:traversable wormhole and warp drive, energy condition, closed time-like curve, EFE from LHS to RHS:Schwarzschild geometry, time dilation**
@@ -104,7 +104,7 @@ theory of relativity, emphasizing the physical intuitions.
 1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
 2. [`"The warp drive: hyper-fast travel within general relativity"`](https://iopscience.iop.org/article/10.1088/0264-9381/11/5/001) by Miguel Alcubierre (1994)
 
-[homework](/lecture/GR_pdf/hw_week7.pdf) (due: 11/9)
+[homework](/lecture/GR_pdf/hw_week7.pdf) (due: week 9)
 
 ### week 8 (11/2)
 **review, homework Q&A**
@@ -112,6 +112,7 @@ theory of relativity, emphasizing the physical intuitions.
 2. [Catalogue of Spacetimes](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes) by Thomas Mueller and Frank Grave (a collection of well-known spacetimes in GR )
 
 *no homework*
+[solutions for the week1-7 homework](/lecture/GR_pdf/sol_week1_7.pdf)
 
 ### week 9 (11/9)
 midterm exam
