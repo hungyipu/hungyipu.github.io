@@ -112,6 +112,7 @@ theory of relativity, emphasizing the physical intuitions.
 2. [Catalogue of Spacetimes](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes) by Thomas Mueller and Frank Grave (a collection of well-known spacetimes in GR )
 
 *no homework*
+
 [solutions for the week1-7 homework](/lecture/GR_pdf/sol_week1_7.pdf)
 
 ### week 9 (11/9)
