@@ -68,7 +68,7 @@ theory of relativity, emphasizing the physical intuitions.
 *further reading:*
 1. ch 2&3 of `"A first course in general relativity"` by Bernard Schutz
 
-[homework](/lecture/GR_pdf/hw_week3.pdf) (due: week 5) *version:9/28*
+[homework](/lecture/GR_pdf/hw_week3.pdf) (due: week 5) *version:11/2 (typo fixed)*
 
 ### week 4 (10/5)
 **acceleration in SR, Rindler horizon,  equivalence principle, manifold, local inertial frames, Riemann curvature tensor**
@@ -86,7 +86,7 @@ theory of relativity, emphasizing the physical intuitions.
 *further reading:*
 1. ch 8 of `"Albert Einstein: Creator and Rebel"` by Banesh Hoffmann (story of how Einstein reached the field equation)
 
-[homework](/lecture/GR_pdf/hw_week5.pdf) (due: week 7) *version:10/15 (typo fixed)*
+[homework](/lecture/GR_pdf/hw_week5.pdf) (due: week 7) *version:11/2 (typo fixed)*
 
 ### week 6 (10/19)
 **from stree-energy tensor to equation of motion, EFE compared with Poission's equation, Schwarzschild metric and weak field limit, stress-energy tensor beyond perfect fluid, time travel to the past**
@@ -95,7 +95,7 @@ theory of relativity, emphasizing the physical intuitions.
 1. [`"Black Hole Accretion Physics"`](http://bhpire.arizona.edu/2020/10/06/astrophysics-empowered-by-the-eht-accretion-physics-session-1/) online talk by Ramesh Narayan
 2. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
 
-[homework](/lecture/GR_pdf/hw_week6.pdf) (due: week 8) *version:10/15*
+[homework](/lecture/GR_pdf/hw_week6.pdf) (due: week 8) *version:11/2 (typo fixed)*
 
 ### week 7 (10/26)
 **EFE from LHS to RHS:traversable wormhole and warp drive, energy condition, closed time-like curve, EFE from LHS to RHS:Schwarzschild geometry, time dilation**
