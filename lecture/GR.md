@@ -107,7 +107,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week7.pdf) (due: week 9)
 
 ### week 8 (11/2)
-**review, homework Q&A**
+**review, homework Q&A, Lagragian to geodesic and conserved quanities, Lagragian to field equation, singularity**
 1. [Finding and using exact solutions of the Einstein equations](https://arxiv.org/abs/gr-qc/0601102)  by MacCallum (methods used to find solutions of Einstein's field equations)
 2. [Catalogue of Spacetimes](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes) by Thomas Mueller and Frank Grave (a collection of well-known spacetimes in GR )
 
