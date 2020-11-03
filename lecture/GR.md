@@ -108,8 +108,8 @@ theory of relativity, emphasizing the physical intuitions.
 
 ### week 8 (11/2)
 **review, homework Q&A, Lagragian to geodesic and conserved quanities, Lagragian to field equation, singularity, 2020 Noble prize in physics, gravitational collapse **
-1. [Finding and using exact solutions of the Einstein equations](https://arxiv.org/abs/gr-qc/0601102)  by MacCallum (methods used to find solutions of Einstein's field equations)
-2. [Catalogue of Spacetimes](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes) by Thomas Mueller and Frank Grave (a collection of well-known spacetimes in GR )
+1. [`Finding and using exact solutions of the Einstein equations`](https://arxiv.org/abs/gr-qc/0601102)  by MacCallum (methods used to find solutions of Einstein's field equations)
+2. [`Catalogue of Spacetimes`](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes) by Thomas Mueller and Frank Grave (a collection of well-known spacetimes in GR )
 3. [`Physics Nobel Awarded for Black Hole Breakthroughs`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
 4. [`"On Continued Gravitational Contraction"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.455) by J. R. Oppenheimer and H. Snyder (1939)
 5. [`"Gravitational Collapse and Space-Time Singularities"`](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.14.57) by Roger Penrose (1965)
