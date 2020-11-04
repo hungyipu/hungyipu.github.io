@@ -117,7 +117,7 @@ theory of relativity, emphasizing the physical intuitions.
 
 *no homework*
 
-[solutions for the week1-7 homework](/lecture/GR_pdf/sol_week1_7.pdf) *version*
+[solutions for the week1-7 homework](/lecture/GR_pdf/sol_week1_7.pdf) *version:11/4* 
 
 ### week 9 (11/9)
 **midterm exam**
