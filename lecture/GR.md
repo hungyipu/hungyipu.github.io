@@ -52,7 +52,7 @@ theory of relativity, emphasizing the physical intuitions.
 1. `"Flatland: A Romance of Many Dimensions"` by Edwin A. Abbott
 2. `"Differential geometry and Lie groups for physicists"` by Fecko, Marian (e-book available from NTNU library)
 
-[homework](/lecture/GR_pdf/hw_week1.pdf) (due: week 3)
+[homework](/lecture/GR_pdf/hw_week1.pdf) (due: week 3) *version:11/4 (fixing typos)* 
 
 ### week 2 (9/21)
 **SR revisted, Lorentz contraction, aberration of light, four-vector, special relativistic kinematics and dynamics**
@@ -61,7 +61,7 @@ theory of relativity, emphasizing the physical intuitions.
 1. [`"First-person visualizations of the special and general theory of relativity"`](https://iopscience.iop.org/article/10.1088/0143-0807/29/1/001) by U Kraus (Eur. J. Phys. 2008)
 2. ch4 of `"Radiative processes in astrophysics"` by George B. Rybicki, Alan P. Lightman
 
-[homework](/lecture/GR_pdf/hw_week2.pdf) (due: week 4) *version:10/2 (fixing typos)* 
+[homework](/lecture/GR_pdf/hw_week2.pdf) (due: week 4) *version:11/4 (fixing typos)* 
 ### week 3 (9/28)
 **covariant/contravariant transformation, tensor as a linear mapping machine, partial and covariant derivitive, Christoffel symbol, idea of geodesic**
 
@@ -78,7 +78,7 @@ theory of relativity, emphasizing the physical intuitions.
 2. [`"Hyperbolic Motion in Curved Space Time"`](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.2082) by W. Rindler (Phys. Rev. 1960)
 4. ch 4.6 of `"A first course in general relativity"` by Bernard Schutz
 
-[homework](/lecture/GR_pdf/hw_week4.pdf) (due: week 6) *version:10/11*
+[homework](/lecture/GR_pdf/hw_week4.pdf) (due: week 6) *version:11/4 (fixing typos)* 
 
 ### week 5 (10/12)
 **curvature tensor and beyond (Ricci tensor, Ricci scalar, Einstein tensor), stress-energy tensor, Einstein's field equation (EFE), review of tensor calaulations and geodesics**
@@ -95,7 +95,7 @@ theory of relativity, emphasizing the physical intuitions.
 1. [`"Black Hole Accretion Physics"`](http://bhpire.arizona.edu/2020/10/06/astrophysics-empowered-by-the-eht-accretion-physics-session-1/) online talk by Ramesh Narayan
 2. `"Time travel and warp drives"` by Allen Everett and Thomas Roman
 
-[homework](/lecture/GR_pdf/hw_week6.pdf) (due: week 8) *version:11/2 (typo fixed)*
+[homework](/lecture/GR_pdf/hw_week6.pdf) (due: week 8) *version:11/4 (fixing typos)* 
 
 ### week 7 (10/26)
 **EFE from LHS to RHS:traversable wormhole and warp drive, energy condition, closed time-like curve, EFE from LHS to RHS:Schwarzschild geometry, time dilation**
@@ -104,7 +104,7 @@ theory of relativity, emphasizing the physical intuitions.
 1. `"Lorentzian Wormholes: From Einstein to Hawking"` by M. Visser
 2. [`"The warp drive: hyper-fast travel within general relativity"`](https://iopscience.iop.org/article/10.1088/0264-9381/11/5/001) by Miguel Alcubierre (1994)
 
-[homework](/lecture/GR_pdf/hw_week7.pdf) (due: week 9) *version*
+[homework](/lecture/GR_pdf/hw_week7.pdf) (due: week 9) *version:11/4* 
 
 ### week 8 (11/2)
 **review, homework Q&A, Lagragian to geodesic and conserved quanities, Lagragian to field equation, singularity, 2020 Noble prize in physics, gravitational collapse**
