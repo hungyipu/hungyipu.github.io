@@ -107,7 +107,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week7.pdf) (due: week 9) *version:11/4* 
 
 ### week 8 (11/2)
-**review, homework Q&A, Lagragian to geodesic and conserved quanities, Lagragian to field equation, singularity, 2020 Noble prize in physics, gravitational collapse**
+**review, homework Q&A, Lagragian for the geodesics, Lagragian for the field equation, singularity, 2020 Noble prize in physics, gravitational collapse**
 1. [`Finding and using exact solutions of the Einstein equations`](https://arxiv.org/abs/gr-qc/0601102)  by MacCallum (methods used to find solutions of Einstein's field equations)
 2. [`Catalogue of Spacetimes`](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes) by Thomas Mueller and Frank Grave (a collection of well-known spacetimes in GR )
 3. [`Physics Nobel Awarded for Black Hole Breakthroughs`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
@@ -119,16 +119,15 @@ theory of relativity, emphasizing the physical intuitions.
 
 [solutions for the week1-7 homework](/lecture/GR_pdf/sol_week1_7.pdf) *version:11/4* 
 
-### week 9 (11/9)
-**midterm exam**
+### week 9 (11/9: midterm exam)
 
 ### week 10 (11/16)
-Birkhoff's theorm, tetrad
+**midterm exam discussions, correspondence principle, some miscs: Lagragian to geodesic and conserved quanities etc.**
 
+*no homework*
 
-
-### week 11 (11/23)
-Newtonian approximation, solar system tests of GR
+### week 11 (11/23: peer review and feedback)
+Birkhoff's theorm, tetrad, solar system tests of GR
 
 ### week 12 (11/30)
 black holes, horizons, gravitational redshift, Penrose diagram
@@ -146,10 +145,10 @@ cosmological models
 selected topic: relativistic effects in astrophysics
 
 ### week 17 (1/4)
-selected topic: time travel, Lagrangian formulation of GR, alternative gravity
+
 
 ### week 18 (1/11)
-final exam
+
 
 
 
