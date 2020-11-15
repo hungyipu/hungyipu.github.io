@@ -145,6 +145,7 @@ cosmological models
 selected topic: relativistic effects in astrophysics
 
 ### week 17 (1/4)
+self-directed learning
 
 
 ### week 18 (1/11)
