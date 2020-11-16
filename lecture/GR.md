@@ -12,9 +12,9 @@ theory of relativity, emphasizing the physical intuitions.
 
 - location: F102 
 
-- scoring: *homework* (30%) + *mid-term exam* (30%; **week 9**) + *final exam* (30%; **week 18**) + *class involvement* (5%) + *others* (5%)
+- scoring: *homework* (30%) + *mid-term exam* (30%; **week 9**) + *final exam* (30%; **~~week 18~~** **week 17*) + *class involvement* (5%) + *others* (5%)
 
-- lecturer: Hung-Yi Pu
+- lecturer: Hung-Yi Pu (office: A220)
 (hypu_at_ntnu.edu.tw)
 
 - TA: Hsiang-Yu Huang
@@ -122,12 +122,12 @@ theory of relativity, emphasizing the physical intuitions.
 ### week 9 (11/9: midterm exam)
 
 ### week 10 (11/16)
-**midterm exam discussions, correspondence principle, some miscs: Lagragian to geodesic and conserved quanities etc.**
+**midterm exam discussions, correspondence principle, role of post-Newtonian approach, plans for the second half of the course**
 
 *no homework*
 
 ### week 11 (11/23: peer review and feedback)
-Birkhoff's theorm, tetrad, solar system tests of GR
+Lagragian to geodesic and conserved quanities, Birkhoff's theorm, tetrad, solar system tests of GR
 
 ### week 12 (11/30)
 black holes, horizons, gravitational redshift, Penrose diagram
@@ -142,14 +142,14 @@ gravitational wave physics, quasi-normal modes, numerical relativity
 cosmological models
 
 ### week 16 (12/28)
-selected topic: relativistic effects in astrophysics
+
 
 ### week 17 (1/4)
-self-directed learning
+final exam
 
 
 ### week 18 (1/11)
-
+final exam discussions
 
 
 
