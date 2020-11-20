@@ -117,14 +117,14 @@ theory of relativity, emphasizing the physical intuitions.
 
 [solutions for the week1-7 homework](/lecture/GR_pdf/sol_week1_7.pdf) *version:11/4* 
 
-### week 9 (11/9: midterm exam)
+### week 9: midterm exam (11/9)
 
 ### week 10 (11/16)
 **midterm exam discussions, correspondence principle, role of post-Newtonian approach, plans for the second half of the course**
 
 *no homework*
 
-### week 11 (11/23: black holes)
+### week 11: black holes/ peer review and feedback (11/23)
 Lagragian to geodesic and conserved quanities, black holes, coordinates, Birkhoff's theorm, tetrad, solar system tests of GR
 
 1. `"Black Holes: a student text"` by Raine Thomas
@@ -132,25 +132,25 @@ Lagragian to geodesic and conserved quanities, black holes, coordinates, Birkhof
 
 [homework](/lecture/GR_pdf/hw_week11.pdf) (due: week 13) *version:11/23* 
 
-### week 12 (11/30: black holes)
+### week 12: black holes (11/30)
 Kerr metric and rotating black holes, frame-dragging, Penrose diagram, Penrose process, Blandford-Znajeck mechnism, membrane paradigm, black hole astrophysics
 
 1. `"Gravity's fatal attraction : black holes in the universe"` by Mitchell Begelman, Martin Rees
   
-### week 13 (12/7: gravitational waves)
+### week 13: gravitational waves (12/7)
 linearized gravity
 
-### week 14 (12/14: gravitational waves)
+### week 14: gravitational waves (12/14)
 gravitational wave physics, quasi-normal modes, numerical relativity
 
-### week 15 (12/21: cosmology)
+### week 15: cosmology (12/21)
 cosmological models
 
-### week 16 (12/28: cosmology)
+### week 16: cosmology (12/28)
 cosmological constant
 
-### week 17 (1/4)
-final exam
+### week 17: final exam (1/4)
+
 
 
 ### week 18 (1/11)
