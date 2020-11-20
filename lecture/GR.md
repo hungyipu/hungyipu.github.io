@@ -12,7 +12,7 @@ theory of relativity, emphasizing the physical intuitions.
 
 - location: F102 
 
-- scoring: *homework* (30%) + *mid-term exam* (30%; **week 9**) + *final exam* (30%; **~~week 18~~** **week 17*) + *class involvement* (5%) + *others* (5%)
+- scoring: *homework* (30%) + *mid-term exam* (30%; **week 9**) + *final exam* (30%; **~~week 18~~** **week 17**) + *class involvement* (5%) + *others* (5%)
 
 - lecturer: Hung-Yi Pu (office: A220)
 (hypu_at_ntnu.edu.tw)
@@ -27,8 +27,6 @@ theory of relativity, emphasizing the physical intuitions.
   - `"Gravity: An Introduction to Einstein's General Relativity"` by James B. Hartle
 
   - `"A first course in general relativity"` by Bernard Schutz
-
-  - `"Exploring Black Holes: Introduction to General Relativity"` by Edwin F. Taylor, John A. Wheeler
 
   - `"Gravitation"` by Charles W. Misner, Kip S. Thorne, John A. Wheeler
 
@@ -126,23 +124,30 @@ theory of relativity, emphasizing the physical intuitions.
 
 *no homework*
 
-### week 11 (11/23: peer review and feedback)
-Lagragian to geodesic and conserved quanities, Birkhoff's theorm, tetrad, solar system tests of GR
+### week 11 (11/23: black holes)
+Lagragian to geodesic and conserved quanities, black holes, coordinates, Birkhoff's theorm, tetrad, solar system tests of GR
 
-### week 12 (11/30)
-black holes, horizons, gravitational redshift, Penrose diagram
+1. `"Black Holes: a student text"` by Raine Thomas
+2. `"Exploring Black Holes: Introduction to General Relativity"` by Edwin F. Taylor, John A. Wheeler
 
-### week 13 (12/7)
-Kerr metric and rotating black holes, frame-dragging, black hole shadow, membrane paradigm
+[homework](/lecture/GR_pdf/hw_week11.pdf) (due: week 13) *version:11/23* 
 
-### week 14 (12/14)
+### week 12 (11/30: black holes)
+Kerr metric and rotating black holes, frame-dragging, Penrose diagram, Penrose process, Blandford-Znajeck mechnism, membrane paradigm, black hole astrophysics
+
+1. `"Gravity's fatal attraction : black holes in the universe"` by Mitchell Begelman, Martin Rees
+  
+### week 13 (12/7: gravitational waves)
+linearized gravity
+
+### week 14 (12/14: gravitational waves)
 gravitational wave physics, quasi-normal modes, numerical relativity
 
-### week 15 (12/21)
+### week 15 (12/21: cosmology)
 cosmological models
 
-### week 16 (12/28)
-
+### week 16 (12/28: cosmology)
+cosmological constant
 
 ### week 17 (1/4)
 final exam
