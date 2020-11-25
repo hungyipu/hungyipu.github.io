@@ -136,6 +136,7 @@ Lagragian to geodesic and conserved quanities, black holes, coordinates, Birkhof
 Kerr metric and rotating black holes, frame-dragging, Penrose diagram, Penrose process, Blandford-Znajeck mechnism, membrane paradigm, black hole astrophysics
 
 1. `"Gravity's fatal attraction : black holes in the universe"` by Mitchell Begelman, Martin Rees
+2. [`Black Hole Imaging`](https://www.youtube.com/watch?v=x1TX8DYM5Ew&feature=emb_title) (youtube vedio; by Jean-Pierre Luminet)
   
 ### week 13: gravitational waves (12/7)
 linearized gravity
