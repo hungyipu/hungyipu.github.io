@@ -125,7 +125,7 @@ theory of relativity, emphasizing the physical intuitions.
 *no homework*
 
 ### week 11: black holes/ peer review and feedback (11/23)
-Lagragian to geodesic and conserved quanities, black holes, coordinates, Birkhoff's theorm, tetrad, solar system tests of GR
+Lagragian to geodesic and conserved quanities, black holes, Birkhoff's theorm, some solar system tests of GR
 
 1. `"Black Holes: a student text"` by Raine Thomas
 2. `"Exploring Black Holes: Introduction to General Relativity"` by Edwin F. Taylor, John A. Wheeler
@@ -133,11 +133,14 @@ Lagragian to geodesic and conserved quanities, black holes, coordinates, Birkhof
 [homework](/lecture/GR_pdf/hw_week11.pdf) (due: week 13) *version:11/23* 
 
 ### week 12: black holes (11/30)
-Kerr metric and rotating black holes, frame-dragging, Penrose diagram, Penrose process, Blandford-Znajeck mechnism, membrane paradigm, black hole astrophysics
+coordinates and horizon, Kerr metric and rotating black holes, frame-dragging, Penrose diagram, Penrose process, Blandford-Znajeck mechnism, membrane paradigm, black hole astrophysics
 
 1. `"Gravity's fatal attraction : black holes in the universe"` by Mitchell Begelman, Martin Rees
 2. [`Black Hole Imaging`](https://www.youtube.com/watch?v=x1TX8DYM5Ew&feature=emb_title) (youtube vedio; by Jean-Pierre Luminet)
-  
+3. ch 11 of `"A first course in general relativity"` by Bernard Schutz
+
+[homework](/lecture/GR_pdf/hw_week12.pdf) (due: week 14) *version:11/29* 
+
 ### week 13: gravitational waves (12/7)
 linearized gravity
 
