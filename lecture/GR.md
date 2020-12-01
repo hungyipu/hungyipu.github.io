@@ -125,7 +125,7 @@ theory of relativity, emphasizing the physical intuitions.
 *no homework*
 
 ### week 11: black holes/ peer review and feedback (11/23)
-**Lagragian to geodesic and conserved quanities, black holes, no-hair theorem,  Birkhoff's theorem, Kerr-hoposisthes, some solar system tests of GR**
+**Lagragian to geodesic and conserved quanities, black holes, no-hair theorem,  Birkhoff's theorem, Kerr-hoposisthes, some paper-and-scissor models for solar system tests of GR**
 
 1. `"Black Holes: a student text"` by Raine Thomas
 2. `"Exploring Black Holes: Introduction to General Relativity"` by Edwin F. Taylor, John A. Wheeler
