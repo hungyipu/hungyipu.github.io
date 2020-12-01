@@ -133,7 +133,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week11.pdf) (due: week 13) *version:11/23* 
 
 ### week 12: black holes (11/30)
-**coordinates and horizon, Kerr metric and rotating black holes, frame-dragging, Penrose process, Blandford-Znajeck mechnism, black hole astrophysics** (did not have time to cover: other coordinates and Penrose diagram, tetrad, membrane paradigm)
+**coordinates and horizon, Kerr metric and rotating black holes, frame-dragging, Penrose process, Blandford-Znajeck mechnism, black hole astrophysics, area theorem, a few words for linking black hole to other fields (thermal dynamics, quantum gravity)** (did not have time to cover: other coordinates and Penrose diagram, tetrad, membrane paradigm)
 
 1. `"Gravity's fatal attraction : black holes in the universe"` by Mitchell Begelman, Martin Rees
 2. [`Black Hole Imaging`](https://www.youtube.com/watch?v=x1TX8DYM5Ew&feature=emb_title) (youtube vedio; by Jean-Pierre Luminet)
