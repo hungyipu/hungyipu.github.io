@@ -163,10 +163,9 @@ cosmological constant
 
 
 ### week 18 (1/11)
-final exam discussions, how can you continue the journey if you are interested
+final exam discussions, concluding remarks
 
-
-
+1. [`"Relativity and the Global Postioning System"`](http://webs.ftmc.uam.es/juancarlos.cuevas/Teaching/GPS_relativity.pdf) by Neil Ashby (2002)
 
 
 
