@@ -105,7 +105,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week7.pdf) (due: week 9) *version:11/4* 
 
 ### week 8 (11/2)
-**review, homework Q&A, Lagragian for the geodesics, Lagragian for the field equation, singularity, 2020 Noble prize in physics, gravitational collapse**
+**review, homework Q&A, Lagragian for the geodesics, Lagragian for the field equation, singularity, 2020 Noble prize in physics, trapped surface, gravitational collapse**
 1. [`Finding and using exact solutions of the Einstein equations`](https://arxiv.org/abs/gr-qc/0601102)  by MacCallum (methods used to find solutions of Einstein's field equations)
 2. [`Catalogue of Spacetimes`](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes) by Thomas Mueller and Frank Grave (a collection of well-known spacetimes in GR )
 3. [`Physics Nobel Awarded for Black Hole Breakthroughs`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
