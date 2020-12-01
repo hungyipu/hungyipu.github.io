@@ -158,7 +158,7 @@ cosmological constant
 
 
 ### week 18 (1/11)
-final exam discussions
+final exam discussions, how can you continue the journey if you are interested
 
 
 
