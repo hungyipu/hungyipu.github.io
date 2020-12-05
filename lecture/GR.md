@@ -146,8 +146,9 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week12.pdf) (due: week 14) *version:11/29* 
 
 ### week 13: gravitational waves (12/7)
-linearized gravity
+linearized gravity, gauge, gravitational physics: detection and its power, order of magnitute estimation
 
+*further reading:*
 1. [`"The basics of gravitational wave theory"`](https://iopscience.iop.org/article/10.1088/1367-2630/7/1/204/pdf) by Éanna É Flanagan and Scott A Hughes (2005) 
 2. [`"Gravitational waves demystified"`](http://www.tapir.caltech.edu/~teviet/Waves/) a semi-quantitative introduction to GW by Teviet Creighton
 3. [`"General Relativity Still Making Waves"`](https://journals.aps.org/prd/edannounce/10.1103/PhysRevD.92.050001) by Clifford Will (2015)
@@ -155,7 +156,7 @@ linearized gravity
 
 
 ### week 14: gravitational waves (12/14)
-gravitational wave physics, quasi-normal modes, numerical relativity
+quasi-normal modes, numerical relativity and other approaches
 
 *further reading:*
 1. [`"The Basic Physics of the Binary Black Hole Merger GW150914"`](https://onlinelibrary.wiley.com/doi/full/10.1002/andp.201600209) by LIGO Scientific and VIRGO Collaborations (2016)
