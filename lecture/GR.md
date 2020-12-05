@@ -144,13 +144,16 @@ theory of relativity, emphasizing the physical intuitions.
 ### week 13: gravitational waves (12/7)
 linearized gravity
 
-1. [`"General Relativity Still Making Waves"`](https://journals.aps.org/prd/edannounce/10.1103/PhysRevD.92.050001) by Clifford Will (2015)
-2. [`"The Basic Physics of the Binary Black Hole Merger GW150914"`](https://onlinelibrary.wiley.com/doi/full/10.1002/andp.201600209) by LIGO Scientific and VIRGO Collaborations (2016)
-3. [`"The Mathematics of Grvitational Waves"`](https://www.ams.org/journals/notices/201707/rnoti-p684.pdf) by Denson, Nurowski, Bieri, Garfinke, and Yunes (2017)
+1. [`"The basics of gravitational wave theory"`](https://iopscience.iop.org/article/10.1088/1367-2630/7/1/204/pdf) by Éanna É Flanagan and Scott A Hughes (2005) 
+2. [`"General Relativity Still Making Waves"`](https://journals.aps.org/prd/edannounce/10.1103/PhysRevD.92.050001) by Clifford Will (2015)
+3. [`"The Basic Physics of the Binary Black Hole Merger GW150914"`](https://onlinelibrary.wiley.com/doi/full/10.1002/andp.201600209) by LIGO Scientific and VIRGO Collaborations (2016)
+4. [`"The Mathematics of Grvitational Waves"`](https://www.ams.org/journals/notices/201707/rnoti-p684.pdf) by Denson, Nurowski, Bieri, Garfinke, and Yunes (2017)
 
 
 ### week 14: gravitational waves (12/14)
 gravitational wave physics, quasi-normal modes, numerical relativity
+
+1. [`"Binary black hole explorer"`](https://iopscience.iop.org/article/10.1088/1367-2630/7/1/204/pdf) Visualization of precessing binary black holes software by Vijay Varma (see also its [related paper](https://arxiv.org/abs/1811.06552))
 
 ### week 15: cosmology (12/21)
 cosmological models
