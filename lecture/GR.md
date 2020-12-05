@@ -106,6 +106,8 @@ theory of relativity, emphasizing the physical intuitions.
 
 ### week 8 (11/2)
 **review, homework Q&A, Lagragian for the geodesics, Lagragian for the field equation, singularity, 2020 Noble prize in physics, trapped surface, gravitational collapse**
+
+*further reading:*
 1. [`Finding and using exact solutions of the Einstein equations`](https://arxiv.org/abs/gr-qc/0601102)  by MacCallum (methods used to find solutions of Einstein's field equations)
 2. [`Catalogue of Spacetimes`](https://arxiv.org/abs/0904.4184) [(worksheets)](https://www.visus.uni-stuttgart.de/publikationen/catalogue-of-spacetimes) by Thomas Mueller and Frank Grave (a collection of well-known spacetimes in GR )
 3. [`Physics Nobel Awarded for Black Hole Breakthroughs`](https://www.quantamagazine.org/physics-nobel-awarded-for-black-hole-breakthroughs-20201006/) by Qunta Magzine
@@ -127,6 +129,7 @@ theory of relativity, emphasizing the physical intuitions.
 ### week 11: black holes/ peer review and feedback (11/23)
 **Lagragian to geodesic and conserved quanities, black holes, no-hair theorem,  Birkhoff's theorem, Kerr-hoposisthes, some paper-and-scissor models for solar system tests of GR**
 
+*further reading:*
 1. `"Black Holes: a student text"` by Raine Thomas
 2. `"Exploring Black Holes: Introduction to General Relativity"` by Edwin F. Taylor, John A. Wheeler
 
@@ -135,6 +138,7 @@ theory of relativity, emphasizing the physical intuitions.
 ### week 12: black holes (11/30)
 **regularity of the event horizon, special observers (hovering/infalling/orbiting), Kerr metric and rotating black holes, frame-dragging, Penrose process, Blandford-Znajeck mechnism, black hole astrophysics, area theorem, a few words for linking black hole to other fields (thermal dynamics, quantum gravity)** (did not have time to cover: other coordinates and Penrose diagram, tetrad, membrane paradigm)
 
+*further reading:*
 1. `"Gravity's fatal attraction : black holes in the universe"` by Mitchell Begelman, Martin Rees
 2. [`Black Hole Imaging`](https://www.youtube.com/watch?v=x1TX8DYM5Ew&feature=emb_title) (youtube vedio; by Jean-Pierre Luminet)
 3. ch 11 of `"A first course in general relativity"` by Bernard Schutz
@@ -145,15 +149,17 @@ theory of relativity, emphasizing the physical intuitions.
 linearized gravity
 
 1. [`"The basics of gravitational wave theory"`](https://iopscience.iop.org/article/10.1088/1367-2630/7/1/204/pdf) by Éanna É Flanagan and Scott A Hughes (2005) 
-2. [`"General Relativity Still Making Waves"`](https://journals.aps.org/prd/edannounce/10.1103/PhysRevD.92.050001) by Clifford Will (2015)
-3. [`"The Basic Physics of the Binary Black Hole Merger GW150914"`](https://onlinelibrary.wiley.com/doi/full/10.1002/andp.201600209) by LIGO Scientific and VIRGO Collaborations (2016)
+2. [`"Gravitational waves demystified"`](http://www.tapir.caltech.edu/~teviet/Waves/) a semi-quantitative introduction to GW by Teviet Creighton
+3. [`"General Relativity Still Making Waves"`](https://journals.aps.org/prd/edannounce/10.1103/PhysRevD.92.050001) by Clifford Will (2015)
 4. [`"The Mathematics of Grvitational Waves"`](https://www.ams.org/journals/notices/201707/rnoti-p684.pdf) by Denson, Nurowski, Bieri, Garfinke, and Yunes (2017)
 
 
 ### week 14: gravitational waves (12/14)
 gravitational wave physics, quasi-normal modes, numerical relativity
 
-1. [`"Binary black hole explorer"`](https://iopscience.iop.org/article/10.1088/1367-2630/7/1/204/pdf) Visualization of precessing binary black holes software by Vijay Varma (see also its [related paper](https://arxiv.org/abs/1811.06552))
+*further reading:*
+1. [`"The Basic Physics of the Binary Black Hole Merger GW150914"`](https://onlinelibrary.wiley.com/doi/full/10.1002/andp.201600209) by LIGO Scientific and VIRGO Collaborations (2016)
+2. [`"Binary black hole explorer"`](https://vijayvarma392.github.io/binaryBHexp/) Visualization of precessing binary black holes software by Vijay Varma (see also its [related paper](https://arxiv.org/abs/1811.06552))
 
 ### week 15: cosmology (12/21)
 cosmological models
