@@ -149,17 +149,19 @@ theory of relativity, emphasizing the physical intuitions.
 linearized gravity, gauge, gravitational physics: detection and its power, order of magnitute estimation
 
 *further reading:*
-1. [`"The basics of gravitational wave theory"`](https://iopscience.iop.org/article/10.1088/1367-2630/7/1/204/pdf) by Éanna É Flanagan and Scott A Hughes (2005) 
+1. [`"The Basic Physics of the Binary Black Hole Merger GW150914"`](https://onlinelibrary.wiley.com/doi/full/10.1002/andp.201600209) by LIGO Scientific and VIRGO Collaborations (2016)
 2. [`"Gravitational waves demystified"`](http://www.tapir.caltech.edu/~teviet/Waves/) a semi-quantitative introduction to GW by Teviet Creighton
-3. [`"General Relativity Still Making Waves"`](https://journals.aps.org/prd/edannounce/10.1103/PhysRevD.92.050001) by Clifford Will (2015)
-4. [`"The Mathematics of Grvitational Waves"`](https://www.ams.org/journals/notices/201707/rnoti-p684.pdf) by Denson, Nurowski, Bieri, Garfinke, and Yunes (2017)
+3. [`"The basics of gravitational wave theory"`](https://iopscience.iop.org/article/10.1088/1367-2630/7/1/204/pdf) by Éanna É Flanagan and Scott A Hughes (2005) 
+4. [`"General Relativity Still Making Waves"`](https://journals.aps.org/prd/edannounce/10.1103/PhysRevD.92.050001) by Clifford Will (2015)
+5. [`"The Mathematics of Grvitational Waves"`](https://www.ams.org/journals/notices/201707/rnoti-p684.pdf) by Denson, Nurowski, Bieri, Garfinke, and Yunes (2017)
 
+homework(TBA) (due: week 15) 
 
 ### week 14: gravitational waves (12/14)
 quasi-normal modes, numerical relativity and other approaches
 
 *further reading:*
-1. [`"The Basic Physics of the Binary Black Hole Merger GW150914"`](https://onlinelibrary.wiley.com/doi/full/10.1002/andp.201600209) by LIGO Scientific and VIRGO Collaborations (2016)
+
 2. [`"Binary black hole explorer"`](https://vijayvarma392.github.io/binaryBHexp/) Visualization of precessing binary black holes software by Vijay Varma (see also its [related paper](https://arxiv.org/abs/1811.06552))
 
 ### week 15: cosmology (12/21)
