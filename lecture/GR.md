@@ -155,7 +155,7 @@ linearized gravity, gauge, gravitational physics: detection and its power, order
 4. [`"General Relativity Still Making Waves"`](https://journals.aps.org/prd/edannounce/10.1103/PhysRevD.92.050001) by Clifford Will (2015)
 5. [`"The Mathematics of Grvitational Waves"`](https://www.ams.org/journals/notices/201707/rnoti-p684.pdf) by Denson, Nurowski, Bieri, Garfinke, and Yunes (2017)
 
-homework(TBA) (due: week 15) 
+[homework](/lecture/GR_pdf/hw_week13.pdf)  (due: week 15)  *version:12/8* 
 
 ### week 14: gravitational waves (12/14)
 quasi-normal modes, numerical relativity and other approaches
