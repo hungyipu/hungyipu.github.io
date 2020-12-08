@@ -146,7 +146,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week12.pdf) (due: week 14) *version:11/29* 
 
 ### week 13: gravitational waves (12/7)
-linearized gravity, gauge, gravitational physics: detection and its power, order of magnitute estimation
+**linearized gravity and metric perturbation, gauge condition, GW soltuion/detection/polarization/power, mass quadrupole**
 
 *further reading:*
 1. [`"The Basic Physics of the Binary Black Hole Merger GW150914"`](https://onlinelibrary.wiley.com/doi/full/10.1002/andp.201600209) by LIGO Scientific and VIRGO Collaborations (2016)
