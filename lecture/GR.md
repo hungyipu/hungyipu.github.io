@@ -162,7 +162,10 @@ quasi-normal modes, numerical relativity and other approaches
 
 *further reading:*
 
-2. [`"Binary black hole explorer"`](https://vijayvarma392.github.io/binaryBHexp/) Visualization of precessing binary black holes software by Vijay Varma (see also its [related paper](https://arxiv.org/abs/1811.06552))
+1. [`Einstein Tookit `](http://einsteintoolkit.org/) a community-driven software platform of core computational tools to advance and support research in relativistic astrophysics and gravitational physics, including numerical relativity
+2. [`Black Hole Perturbation Toolkit`](http://bhptoolkit.org/) software and data relating to black hole perturbation theory
+3. [`"Binary black hole explorer"`](https://vijayvarma392.github.io/binaryBHexp/) Visualization of precessing binary black holes software by Vijay Varma (see also its [related paper](https://arxiv.org/abs/1811.06552))
+4.  [Gravitational Wave Source Modelling](https://maths.ucd.ie/dsgwsm/lecture-notes/) Lectures offerred in the 2018 Dublin School on Gravitational Wave Source Modelling
 
 ### week 15: cosmology (12/21)
 cosmological models
