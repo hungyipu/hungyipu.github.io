@@ -163,10 +163,11 @@ quasi-normal modes, numerical relativity and other approaches
 *further reading:*
 
 1. [`Einstein Tookit `](http://einsteintoolkit.org/) a community-driven software platform of core computational tools to advance and support research in relativistic astrophysics and gravitational physics, including numerical relativity
-2. [`Black Hole Perturbation Toolkit`](http://bhptoolkit.org/) software and data relating to black hole perturbation theory
-3. [`Binary black hole explorer`](https://vijayvarma392.github.io/binaryBHexp/) Visualization of precessing binary black holes software by Vijay Varma (see also its [related paper](https://arxiv.org/abs/1811.06552))
-4.  [`Gravitational Wave Source Modelling`](https://maths.ucd.ie/dsgwsm/lecture-notes/) Lectures offerred in the 2018 Dublin School on Gravitational Wave Source Modelling
-5.  [`BlackHole@Home`](http://astro.phys.wvu.edu/bhathome/)  contribute to the gravitational wave catalogs! a exciting project lead by Z. Etienne and I. Ruchlin
+2. [`Catalog of 174 Binary Black Hole Simulations for Gravitational Wave Astronomy`](https://ui.adsabs.harvard.edu/abs/2013PhRvL.111x1104M/abstract) Abdul H. Mroué et al. (2013)
+3. [`Black Hole Perturbation Toolkit`](http://bhptoolkit.org/) software and data relating to black hole perturbation theory
+4. [`Binary black hole explorer`](https://vijayvarma392.github.io/binaryBHexp/) Visualization of precessing binary black holes software by Vijay Varma (see also its [related paper](https://arxiv.org/abs/1811.06552))
+5.  [`Gravitational Wave Source Modelling`](https://maths.ucd.ie/dsgwsm/lecture-notes/) Lectures offerred in the 2018 Dublin School on Gravitational Wave Source Modelling
+6.  [`BlackHole@Home`](http://astro.phys.wvu.edu/bhathome/)  contribute to the gravitational wave catalogs! a exciting project lead by Z. Etienne and I. Ruchlin
 
 [homework](/lecture/GR_pdf/hw_week14.pdf)  (due: week 16) 
 
