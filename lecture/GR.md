@@ -158,7 +158,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week13.pdf)  (due: week 15)  *version:12/8* 
 
 ### week 14: gravitational waves (12/14)
-quasi-normal modes, numerical relativity and other approaches
+**chiring binary system, gravitational wave spectrum, detector design and sesitivity, multi-messenger astronomy, extreme mass ratio inspiral (EMRI) system, introduction to KAGRA (by our TA)** (did not have time to cover: quasi-normal modes, numerical relativity)
 
 *further reading:*
 
@@ -169,7 +169,7 @@ quasi-normal modes, numerical relativity and other approaches
 5.  [`Gravitational Wave Source Modelling`](https://maths.ucd.ie/dsgwsm/lecture-notes/) Lectures offerred in the 2018 Dublin School on Gravitational Wave Source Modelling
 6.  [`BlackHole@Home`](http://astro.phys.wvu.edu/bhathome/)  contribute to the gravitational wave catalogs! a exciting project lead by Z. Etienne and I. Ruchlin
 
-[homework](/lecture/GR_pdf/hw_week14.pdf)  (due: week 16) 
+[homework](/lecture/GR_pdf/hw_week14.pdf)  (due: week 16) *version:12/14* 
 
 ### week 15: cosmology (12/21)
 cosmological models
