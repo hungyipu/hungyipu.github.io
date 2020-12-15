@@ -162,6 +162,8 @@ theory of relativity, emphasizing the physical intuitions.
 
 *further reading:*
 
+1. [`Sources and Types of Gravitational Waves`](http://einsteintoolkit.org/) a community-driven software platform of core computational tools to advance and support research in relativistic astrophysics and gravitational physics, including numerical relativity
+
 1. [`Einstein Tookit `](http://einsteintoolkit.org/) a community-driven software platform of core computational tools to advance and support research in relativistic astrophysics and gravitational physics, including numerical relativity
 2. [`Catalog of 174 Binary Black Hole Simulations for Gravitational Wave Astronomy`](https://ui.adsabs.harvard.edu/abs/2013PhRvL.111x1104M/abstract) Abdul H. Mroué et al. (2013)
 3. [`Black Hole Perturbation Toolkit`](http://bhptoolkit.org/) software and data relating to black hole perturbation theory
