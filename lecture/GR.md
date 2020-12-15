@@ -163,12 +163,13 @@ theory of relativity, emphasizing the physical intuitions.
 *further reading:*
 
 1. [`Sources and Types of Gravitational Waves`](https://www.ligo.caltech.edu/page/gw-sources) online resource by LIGO Caltech
-2. [`Catalog of 174 Binary Black Hole Simulations for Gravitational Wave Astronomy`](https://ui.adsabs.harvard.edu/abs/2013PhRvL.111x1104M/abstract) Abdul H. Mroué et al. (2013)
-3. [`Einstein Tookit `](http://einsteintoolkit.org/) a community-driven software platform of core computational tools to advance and support research in relativistic astrophysics and gravitational physics, including numerical relativity
-4. [`Black Hole Perturbation Toolkit`](http://bhptoolkit.org/) software and data relating to black hole perturbation theory
-5. [`Binary black hole explorer`](https://vijayvarma392.github.io/binaryBHexp/) Visualization of precessing binary black holes software by Vijay Varma (see also its [related paper](https://arxiv.org/abs/1811.06552))
-6.  [`BlackHole@Home`](http://astro.phys.wvu.edu/bhathome/)  contribute to the gravitational wave catalogs! a exciting project lead by Z. Etienne and I. Ruchlin
-7.  [`Gravitational Wave Source Modelling`](https://maths.ucd.ie/dsgwsm/lecture-notes/) Lectures offerred in the 2018 Dublin School on Gravitational Wave Source Modelling
+2. [`The Binary Black Hole Grand Challenge Alliance`](https://ui.adsabs.harvard.edu/abs/1997ASPC..123..305C/abstract) a joint efforts for the development for numerical relativity around 1995
+3. [`Catalog of 174 Binary Black Hole Simulations for Gravitational Wave Astronomy`](https://ui.adsabs.harvard.edu/abs/2013PhRvL.111x1104M/abstract) Abdul H. Mroué et al. (2013)
+4. [`Einstein Tookit `](http://einsteintoolkit.org/) a community-driven software platform of core computational tools to advance and support research in relativistic astrophysics and gravitational physics, including numerical relativity
+5. [`Black Hole Perturbation Toolkit`](http://bhptoolkit.org/) software and data relating to black hole perturbation theory
+6. [`Binary black hole explorer`](https://vijayvarma392.github.io/binaryBHexp/) Visualization of precessing binary black holes software by Vijay Varma (see also its [related paper](https://arxiv.org/abs/1811.06552))
+7.  [`BlackHole@Home`](http://astro.phys.wvu.edu/bhathome/)  contribute to the gravitational wave catalogs! a exciting project lead by Z. Etienne and I. Ruchlin
+8.  [`Gravitational Wave Source Modelling`](https://maths.ucd.ie/dsgwsm/lecture-notes/) Lectures offerred in the 2018 Dublin School on Gravitational Wave Source Modelling
 
 [homework](/lecture/GR_pdf/hw_week14.pdf)  (due: week 16) *version:12/14* 
 
