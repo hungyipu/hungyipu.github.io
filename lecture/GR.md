@@ -176,6 +176,10 @@ theory of relativity, emphasizing the physical intuitions.
 ### week 15: cosmology (12/21)
 cosmological models
 
+*further reading:*
+1. [`The Cosmic Spacetime`](https://ui.adsabs.harvard.edu/abs/2012arXiv1205.2713M/abstract) by Fulvio Melia
+
+
 ### week 16: cosmology (12/28)
 cosmological constant
 
