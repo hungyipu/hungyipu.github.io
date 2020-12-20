@@ -186,6 +186,8 @@ cosmological models
 ### week 16: cosmology (12/28)
 cosmological constant
 
+*no homework*
+
 ### week 17: final exam (1/4)
 
 
