@@ -191,6 +191,8 @@ cosmological constant
 final exam discussions, concluding remarks
 
 1. [`"Relativity and the Global Postioning System"`](http://webs.ftmc.uam.es/juancarlos.cuevas/Teaching/GPS_relativity.pdf) by Neil Ashby (2002)
+2. `"Misconceptions about hte Big Bang"` by Lineweaver & Davis (Scientific American 2005)
+3. `"Is the Universe Leaking Energy?"` by Tamara M. Davis (Scientific American 2010)
 
 
 
