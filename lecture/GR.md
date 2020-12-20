@@ -178,7 +178,10 @@ cosmological models
 
 *further reading:*
 1. [`The Cosmic Spacetime`](https://ui.adsabs.harvard.edu/abs/2012arXiv1205.2713M/abstract) by Fulvio Melia
+2. `"Misconceptions about hte Big Bang"` by Lineweaver & Davis (Scientific American 2005)
+3. `"Is the Universe Leaking Energy?"` by Tamara M. Davis (Scientific American 2010)
 
+[homework](/lecture/GR_pdf/hw_week15.pdf)  (**due: week 18**) *version:* 
 
 ### week 16: cosmology (12/28)
 cosmological constant
@@ -191,8 +194,7 @@ cosmological constant
 final exam discussions, concluding remarks
 
 1. [`"Relativity and the Global Postioning System"`](http://webs.ftmc.uam.es/juancarlos.cuevas/Teaching/GPS_relativity.pdf) by Neil Ashby (2002)
-2. `"Misconceptions about hte Big Bang"` by Lineweaver & Davis (Scientific American 2005)
-3. `"Is the Universe Leaking Energy?"` by Tamara M. Davis (Scientific American 2010)
+
 
 
 
