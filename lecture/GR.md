@@ -178,9 +178,10 @@ theory of relativity, emphasizing the physical intuitions.
 
 *further reading:*
 1. [`2dF QSO Redshift Survey`](https://www.2dfquasar.org/qso_surv.html) 
-2. [`The Cosmic Spacetime`](https://ui.adsabs.harvard.edu/abs/2012arXiv1205.2713M/abstract) by Fulvio Melia
-3. `"Misconceptions about hte Big Bang"` by Lineweaver & Davis (Scientific American 2005)
-4. `"Is the Universe Leaking Energy?"` by Tamara M. Davis (Scientific American 2010)
+2. [`The Extended Baryon Oscillation Spectroscopic Survey (eBOSS)`](https://www.sdss.org/surveys/eboss/)
+3. [`The Cosmic Spacetime`](https://ui.adsabs.harvard.edu/abs/2012arXiv1205.2713M/abstract) by Fulvio Melia
+4. `"Misconceptions about hte Big Bang"` by Lineweaver & Davis (Scientific American 2005)
+5. `"Is the Universe Leaking Energy?"` by Tamara M. Davis (Scientific American 2010)
 
 
 [homework](/lecture/GR_pdf/hw_week15.pdf)  (**due: week 18**) *version:* 
