@@ -177,14 +177,19 @@ theory of relativity, emphasizing the physical intuitions.
 **Hubble's law, cosmological priciple, evolving Universe, Robertson-Walker metric, Friemann equation, equation of state,  radiation/matter dominated epoch, density evolution at different epoch, scale factor evolution in different cosmological models, accelerating Universe and dark energy**
 
 *further reading:*
-1. [`The Cosmic Spacetime`](https://ui.adsabs.harvard.edu/abs/2012arXiv1205.2713M/abstract) by Fulvio Melia
-2. `"Misconceptions about hte Big Bang"` by Lineweaver & Davis (Scientific American 2005)
-3. `"Is the Universe Leaking Energy?"` by Tamara M. Davis (Scientific American 2010)
+1. [`2dF QSO Redshift Survey`](https://www.2dfquasar.org/qso_surv.html) 
+2. [`The Cosmic Spacetime`](https://ui.adsabs.harvard.edu/abs/2012arXiv1205.2713M/abstract) by Fulvio Melia
+3. `"Misconceptions about hte Big Bang"` by Lineweaver & Davis (Scientific American 2005)
+4. `"Is the Universe Leaking Energy?"` by Tamara M. Davis (Scientific American 2010)
+
 
 [homework](/lecture/GR_pdf/hw_week15.pdf)  (**due: week 18**) *version:* 
 
 ### week 16: cosmology (12/28)
 **cosmological redshift is not Doppler redshift, cosmological constant as dark energy candidate, distance ladder**
+
+1. `"Relativity, Gravitation and Cosmology"` by Ta-Pei Cheng
+
 
 *no homework*
 
