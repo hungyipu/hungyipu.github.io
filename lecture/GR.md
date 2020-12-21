@@ -174,7 +174,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week14.pdf)  (due: week 16) *version:12/14* 
 
 ### week 15: cosmology (12/21)
-**Hubble's law, cosmological priciple, evolving Universe, Robertson-Walker metric, Friemann equation, equation of state, density evolution with time, scale factor evolution, radiation/matter dominated epoch, accelerating Universe and dark energy**
+**Hubble's law, cosmological priciple, evolving Universe, Robertson-Walker metric, Friemann equation, equation of state,  radiation/matter dominated epoch, density evolution at different epoch, scale factor evolution in different cosmological models, accelerating Universe and dark energy**
 
 *further reading:*
 1. [`The Cosmic Spacetime`](https://ui.adsabs.harvard.edu/abs/2012arXiv1205.2713M/abstract) by Fulvio Melia
