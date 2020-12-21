@@ -158,7 +158,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week13.pdf)  (due: ~~week 15~~ week 16)  *version:12/21* 
 
 ### week 14: gravitational waves (12/14)
-**chiring binary system, gravitational wave spectrum, detector design and sesitivity, multi-messenger astronomy, extreme mass ratio inspiral (EMRI) system, introduction to KAGRA (by our TA)** (did not have time to cover: quasi-normal modes, numerical relativity)
+**chirping binary system, gravitational wave spectrum, detector design and sesitivity, multi-messenger astronomy, extreme mass ratio inspiral (EMRI) system, introduction to KAGRA (by our TA)** (did not have time to cover: quasi-normal modes, numerical relativity)
 
 *further reading:*
 
