@@ -190,7 +190,7 @@ theory of relativity, emphasizing the physical intuitions.
 **cosmological redshift is not Doppler redshift, cosmological constant as dark energy candidate, distance ladder**
 
 1. `"Relativity, Gravitation and Cosmology"` by Ta-Pei Cheng
-
+2. [`Cosmological singularity`](https://aip.scitation.org/doi/pdf/10.1063/1.3382327) by V. Belinski (2010)
 
 *no homework*
 
