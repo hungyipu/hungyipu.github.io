@@ -143,7 +143,7 @@ theory of relativity, emphasizing the physical intuitions.
 2. [`Black Hole Imaging`](https://www.youtube.com/watch?v=x1TX8DYM5Ew&feature=emb_title) (youtube vedio; by Jean-Pierre Luminet)
 3. ch 11 of `"A first course in general relativity"` by Bernard Schutz
 
-[homework](/lecture/GR_pdf/hw_week12.pdf) (due: week 14) *version:12/12* 
+[homework](/lecture/GR_pdf/hw_week12.pdf) (due: week 14) *version:12/22* 
 
 ### week 13: gravitational waves (12/7)
 **linearized gravity and metric perturbation, gauge condition, GW soltuion/detection/polarization/power, mass quadrupole**
