@@ -184,7 +184,7 @@ theory of relativity, emphasizing the physical intuitions.
 5. `"Is the Universe Leaking Energy?"` by Tamara M. Davis (Scientific American 2010)
 
 
-[homework](/lecture/GR_pdf/hw_week15.pdf)  (**due: week 18**) *version:* 
+[homework](/lecture/GR_pdf/hw_week15.pdf)  (**due: week 18**) *version: 12/23* 
 
 ### week 16: cosmology (12/28)
 **cosmological redshift is not Doppler redshift, cosmological constant as dark energy candidate, distance ladder**
