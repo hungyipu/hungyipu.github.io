@@ -191,6 +191,7 @@ theory of relativity, emphasizing the physical intuitions.
 
 1. `"Relativity, Gravitation and Cosmology"` by Ta-Pei Cheng
 2. [`Cosmological singularity`](https://aip.scitation.org/doi/pdf/10.1063/1.3382327) by V. Belinski (2010)
+3. [Quantum Cosmology](https://www.einstein-online.info/en/explandict/quantum-cosmology/) from Einstein online
 
 *no homework*
 
