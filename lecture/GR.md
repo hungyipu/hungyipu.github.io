@@ -194,6 +194,8 @@ theory of relativity, emphasizing the physical intuitions.
 3. [`Quantum Cosmology`](https://www.einstein-online.info/en/explandict/quantum-cosmology/) from Einstein online
 4. [`Relativistic Cosmology`](https://www.britannica.com/science/cosmology-astronomy/Relativistic-cosmologies) by Frank Hsu
 5. [`Cosmology`](https://sites.astro.caltech.edu/~george/ay127/) George Djorgovski's (California Institute of Technology) Cosmology course website, lots of terrific resources
+6. [`Further reading for the 2011 Nobel Prize in Physics`](https://www.nobelprize.org/prizes/physics/2011/9878-useful-links-further-reading-2011-3/) 
+
 
 
 *no homework*
