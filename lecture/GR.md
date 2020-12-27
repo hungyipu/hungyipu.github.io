@@ -191,12 +191,19 @@ theory of relativity, emphasizing the physical intuitions.
 
 1. `"Relativity, Gravitation and Cosmology"` by Ta-Pei Cheng
 2. [`Cosmological singularity`](https://aip.scitation.org/doi/pdf/10.1063/1.3382327) by V. Belinski (2010)
-3. [Quantum Cosmology](https://www.einstein-online.info/en/explandict/quantum-cosmology/) from Einstein online
+3. [`Quantum Cosmology`](https://www.einstein-online.info/en/explandict/quantum-cosmology/) from Einstein online
+4. [`Relativistic Cosmology`](https://www.britannica.com/science/cosmology-astronomy/Relativistic-cosmologies) by Frank Hsu
+5. [`Cosmology`](https://sites.astro.caltech.edu/~george/ay127/) George Djorgovski's (California Institute of Technology) Cosmology course website, lots of terrific resources
+
 
 *no homework*
 
-### week 17: final exam (1/4)
+[solutions for the week11-16 homework](/lecture/GR_pdf/sol_week11_16.pdf) *version:* 
 
+**Bouns: you can earn extra points by finsihing either the following tasks**   (**due: 1/18**) 
+1. [bouns homework](/lecture/GR_pdf/hw_week16.pdf) *version: 12/26*
+2.  bouns report: select any interesting topics related to black holes/gravitational wave/relativistic cosmology, and write a ~2500 words report (the format is flexible).
+### week 17: final exam (1/4)
 
 
 ### week 18 (1/11)
