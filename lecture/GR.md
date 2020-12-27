@@ -202,7 +202,7 @@ theory of relativity, emphasizing the physical intuitions.
 
 [solutions for the week11-16 homework](/lecture/GR_pdf/sol_week11_16.pdf) *version:* 
 
-**Bouns: you can earn extra points by finsihing either the following tasks**   (**due: 1/1**) 
+**Bouns: you can earn extra points by finsihing either the following tasks**   (**due: 1/15**) 
 1. [bouns homework](/lecture/GR_pdf/hw_week16.pdf) *version: 12/26*
 2.  bouns report: select any interesting topics related to black holes/gravitational wave/relativistic cosmology, and write a ~2500 words report (the format is flexible).
 ### week 17: final exam (1/4)
