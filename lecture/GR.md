@@ -174,7 +174,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week14.pdf)  (due: week 16) *version:12/14* 
 
 ### week 15: cosmology (12/21)
-**Hubble's law, cosmological priciple, evolving Universe, Robertson-Walker metric, Friemann equation, equation of state,  radiation/matter dominated epoch, density evolution at different epoch, scale factor evolution in different cosmological models, accelerating Universe and dark energy**
+**Hubble's law, cosmological priciple, evolving Universe, Robertson-Walker metric, Friemann equation, equation of state,  radiation/matter dominated epoch, density evolution at different epoch, scale factor evolution in different cosmological models**
 
 *further reading:*
 1. [`2dF QSO Redshift Survey`](https://www.2dfquasar.org/qso_surv.html) 
