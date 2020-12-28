@@ -187,7 +187,7 @@ theory of relativity, emphasizing the physical intuitions.
 [homework](/lecture/GR_pdf/hw_week15.pdf)  (**due: week 18**) *version: 12/26* 
 
 ### week 16: cosmology (12/28)
-**cosmological redshift is not Doppler redshift, cosmological constant as dark energy candidate**
+**cosmological redshift, thermal history of the Universe, cosmological constant, negative pressure, matter + curvetaure + Lambda Universes, concordance cosmology model, flatness problem and inflation**
 
 1. `"Relativity, Gravitation and Cosmology"` by Ta-Pei Cheng
 2. [`Cosmological singularity`](https://aip.scitation.org/doi/pdf/10.1063/1.3382327) by V. Belinski (2010)
