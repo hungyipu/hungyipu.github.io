@@ -200,7 +200,7 @@ theory of relativity, emphasizing the physical intuitions.
 
 *no homework*
 
-[solutions for the week11-16 homework](/lecture/GR_pdf/sol_week11_16.pdf) *version:* 
+[solutions for the week11-13 homework](/lecture/GR_pdf/sol_week11_13.pdf) *version:* 12/31
 
 **Bouns: you can earn extra points by finsihing either the following tasks**   (**due: 1/15**) 
 1. [bouns homework](/lecture/GR_pdf/hw_week16.pdf) *version: 12/26*
