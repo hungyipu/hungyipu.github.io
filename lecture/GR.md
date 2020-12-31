@@ -133,7 +133,7 @@ theory of relativity, emphasizing the physical intuitions.
 1. `"Black Holes: a student text"` by Raine Thomas
 2. `"Exploring Black Holes: Introduction to General Relativity"` by Edwin F. Taylor, John A. Wheeler
 
-[homework](/lecture/GR_pdf/hw_week11.pdf) (due: week 13) *version:11/23* 
+[homework](/lecture/GR_pdf/hw_week11.pdf) (due: week 13) *version:11/31* 
 
 ### week 12: black holes (11/30)
 **regularity of the event horizon, special observers (hovering/infalling/orbiting), Kerr metric and rotating black holes, frame-dragging, Penrose process, Blandford-Znajeck mechnism, black hole astrophysics, area theorem, a few words for linking black hole to other fields (thermal dynamics, quantum gravity)** (did not have time to cover: other coordinates and Penrose diagram, tetrad, membrane paradigm)
@@ -155,7 +155,7 @@ theory of relativity, emphasizing the physical intuitions.
 4. [`"General Relativity Still Making Waves"`](https://journals.aps.org/prd/edannounce/10.1103/PhysRevD.92.050001) by Clifford Will (2015)
 5. [`"The Mathematics of Grvitational Waves"`](https://www.ams.org/journals/notices/201707/rnoti-p684.pdf) by Denson, Nurowski, Bieri, Garfinke, and Yunes (2017)
 
-[homework](/lecture/GR_pdf/hw_week13.pdf)  (due: ~~week 15~~ week 16)  *version:12/27* 
+[homework](/lecture/GR_pdf/hw_week13.pdf)  (due: ~~week 15~~ week 16)  *version:12/31* 
 
 ### week 14: gravitational waves (12/14)
 **chirping binary system, gravitational wave spectrum, detector design and sesitivity, multi-messenger astronomy, extreme mass ratio inspiral (EMRI) system, introduction to KAGRA (by our TA)** (did not have time to cover: quasi-normal modes, numerical relativity)
@@ -184,7 +184,7 @@ theory of relativity, emphasizing the physical intuitions.
 5. `"Is the Universe Leaking Energy?"` by Tamara M. Davis (Scientific American 2010)
 
 
-[homework](/lecture/GR_pdf/hw_week15.pdf)  (**due: week 18**) *version: 12/26* 
+[homework](/lecture/GR_pdf/hw_week15.pdf)  (**due: week 18**) *version: 12/31* 
 
 ### week 16: cosmology (12/28)
 **cosmological redshift, thermal history of the Universe, cosmological constant, negative pressure, matter + curvetaure + Lambda Universes, concordance cosmology model, flatness problem and inflation**
