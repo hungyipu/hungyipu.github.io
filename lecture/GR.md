@@ -195,7 +195,9 @@ theory of relativity, emphasizing the physical intuitions.
 4. [`Relativistic Cosmology`](https://www.britannica.com/science/cosmology-astronomy/Relativistic-cosmologies) by Frank Hsu
 5. [`Cosmology`](https://sites.astro.caltech.edu/~george/ay127/) George Djorgovski's (California Institute of Technology) Cosmology course website, lots of terrific resources
 6. [`Further reading for the 2011 Nobel Prize in Physics`](https://www.nobelprize.org/prizes/physics/2011/9878-useful-links-further-reading-2011-3/) 
-
+7. [`Superluminal Recession Velocities`](https://arxiv.org/abs/astro-ph/0011070) Tamara M. Davis and Charles H. Lineweaver (2000)
+8. [`Expanding Confusion: Common Misconceptions of Cosmological
+Horizons and the Superluminal Expansion of the Universe`](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/expanding-confusion-common-misconceptions-of-cosmological-horizons-and-the-superluminal-expansion-of-the-universe/EFEEEFD8D71E59F86DDA82FDF576EFD3) Tamara M. Davis and Charles H. Lineweaver (2013)
 
 
 *no homework*
