@@ -205,8 +205,9 @@ Horizons and the Superluminal Expansion of the Universe`](https://www.cambridge.
 [solutions for the week11-13 homework](/lecture/GR_pdf/sol_week11_13.pdf) *version:* 12/31
 
 **Bouns: you can earn extra points by finsihing either the following tasks**   (**due: 1/15**) 
-1. [bouns homework](/lecture/GR_pdf/hw_week16.pdf) *version: 12/26*
+1. [bouns homework](/lecture/GR_pdf/hw_week16.pdf) *version: 1/4*
 2.  bouns report: select any interesting topics related to black holes/gravitational wave/relativistic cosmology, and write a ~2500 words report (the format is flexible).
+
 ### week 17: final exam (1/4)
 
 
