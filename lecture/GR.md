@@ -184,7 +184,7 @@ theory of relativity, emphasizing the physical intuitions.
 5. `"Is the Universe Leaking Energy?"` by Tamara M. Davis (Scientific American 2010)
 
 
-[homework](/lecture/GR_pdf/hw_week15.pdf)  (**due: week 18**) *version: 12/31* 
+[homework](/lecture/GR_pdf/hw_week15.pdf)  (**due: week 18**) *version: 1/15* 
 
 ### week 16: cosmology (12/28)
 **cosmological redshift, thermal history of the Universe, cosmological constant, negative pressure, matter + curvetaure + Lambda Universes, concordance cosmology model, flatness problem and inflation**
