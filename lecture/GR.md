@@ -217,6 +217,6 @@ final exam discussions, concluding remarks
 
 1. [`"Relativity and the Global Postioning System"`](http://webs.ftmc.uam.es/juancarlos.cuevas/Teaching/GPS_relativity.pdf) by Neil Ashby (2002)
 
-
+[solutions for the week15-16 homework](/lecture/GR_pdf/sol_week15_16.pdf) *version:* 1/18
 
 
