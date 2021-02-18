@@ -17,7 +17,7 @@
 
 - recommand textbooks: 
 
-  - `"Modern Classical Physicsy"` by Kip Thorne & R. Blandford 
+  - Part V of `"Modern Classical Physics"` by Kip Thorne & R. Blandford 
   
 
 
