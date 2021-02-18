@@ -118,7 +118,7 @@ theory of relativity, emphasizing the physical intuitions.
 
 *no homework*
 
-[solutions for the week1-7 homework](/lecture/GR_pdf/sol_week1_7.pdf) *version:11/4* 
+[solutions for the week1-7 homework] *version:11/4* 
 
 ### week 9: midterm exam (11/9)
 
@@ -203,7 +203,7 @@ Horizons and the Superluminal Expansion of the Universe`](https://www.cambridge.
 
 *no homework*
 
-[solutions for the week11-13 homework](/lecture/GR_pdf/sol_week11_13.pdf) *version:* 12/31
+[solutions for the week11-13 homework]*version:* 12/31
 
 **Bouns: you can earn extra points by finsihing either the following tasks**   (**due: 1/15**) 
 1. [bouns homework](/lecture/GR_pdf/hw_week16.pdf) *version: 1/4*
@@ -217,6 +217,6 @@ final exam discussions, concluding remarks
 
 1. [`"Relativity and the Global Postioning System"`](http://webs.ftmc.uam.es/juancarlos.cuevas/Teaching/GPS_relativity.pdf) by Neil Ashby (2002)
 
-[solutions for the week15-16 homework](/lecture/GR_pdf/sol_week15_16.pdf) *version:* 1/18
+[solutions for the week15-16 homework] *version:* 1/18
 
 
