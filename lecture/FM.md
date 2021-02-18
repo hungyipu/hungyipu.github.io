@@ -27,7 +27,7 @@
 
 
 ---
-### week 1 (9/14)
+### week 1
 **overview**
 
 *further reading:*
@@ -35,5 +35,5 @@
 
 [homework]
 
-### week 2 (9/21)
+### week 2
 
