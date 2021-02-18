@@ -1,9 +1,6 @@
 # Fluid Mechanics
 ---
 
-Aim of this course (teaching in English) : to cover the idea of spacetime and Einstein's special and general 
-theory of relativity, emphasizing the physical intuitions. 
-
 - time: Monday 13:20 - 16:20 (16 weeks; [calendar](/lecture/GR_pdf/2020calendar.pdf))
 
 - location: S404 
