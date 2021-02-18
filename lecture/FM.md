@@ -24,6 +24,7 @@
 
 - online resources:
   1. [Gallery of Fluid Motion](https://gfm.aps.org/meetings?) (Presented by the APS Division of Fluid Dynamics)
+  2. [Fluid Dynamics (MIT open course)](http://web.mit.edu/hml/ncfmf.html#preface) (National Committee for Fluid Mechanics Films)
 
 
 ---
