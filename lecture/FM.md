@@ -36,7 +36,7 @@
 ideal fluid, fluidstatics
 
 ### week 3 
-basic equations
+basic equations: conservation of mass, momentum, and energy
 
 ### week 4 
 basic equations:  differential and integral forms
@@ -60,7 +60,7 @@ boundary layer
 compressible flow, Mach number, shock wave
 
 ### week 11
-dimensional analysis and simulitude
+wave, instability, dimensional analysis and simulitude
 
 ### week 12
 introduciton to plasma physics and magnetohydrodynamics
