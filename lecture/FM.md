@@ -16,10 +16,10 @@
 
 
 - recommand textbooks: 
-  - `"Mechanics of Fluid"` by Potter, Wiggert, & Ramasan (ISBN-13: 978-1305637610)
-  - Part V of `"Modern Classical Physics"` by Kip Thorne & R. Blandford (ISBN-13: 978-0691159027)
-  - `"Fluid Mechanics"` by Frank M. White, McGraw-Hill, 4th ed., 1999.
-  - `"Fundamental Mechanics of Fluid"` by I. G. Currie, McGraw-Hill, 2nd ed., 1993.
+  1. `"Mechanics of Fluid"` by Potter, Wiggert, & Ramasan (ISBN-13: 978-1305637610)
+  2. Part V of `"Modern Classical Physics"` by Kip Thorne & R. Blandford (ISBN-13: 978-0691159027)
+  3. `"Fluid Dynamics: an introduction"` by Rieutord (ISBN-13: 978-3319360713)
+  4. `"Fluid Dynamics: Theory, Computation, and Numerical Simulation"` by Pozrikidis (ISBN-13: 978-1489979902) 
 
 
 
