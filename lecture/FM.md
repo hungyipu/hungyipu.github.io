@@ -30,10 +30,10 @@
 
 ---
 ### week 1 (Feb. 22)
-**overview of fluid mechanics, basic properties of fluid**
+**overview of fluid mechanics, fluid element and continuum, basic properties of fluid, Lagrangian and Euler views**
 
 ### week 2
-ideal fluid, fluidstatics
+ideal fluid, steady and incompressible flow, fluid statics
 
 ### week 3 
 basic equations: conservation of mass, momentum, and energy
@@ -42,13 +42,13 @@ basic equations: conservation of mass, momentum, and energy
 basic equations:  differential and integral forms
 
 ### week 5  
-inviscid flow
+stress, viscocity, Newtonian and non-Newtonian flow
 
 ### week 6    
-stress, viscotiy, Navier-Stokes equation
+inviscid and viscous flow, Navier-Stokes equation
 
 ### week 7   
-laminor and turbulence flow, Reynolds number
+laminar and turbulence flow, Reynolds number
 
 ### week 8 
 midterm exam or report
