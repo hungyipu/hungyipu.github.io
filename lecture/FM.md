@@ -16,11 +16,10 @@
 
 
 - recommand textbooks: 
-
-  - `"Mechanics of Fluid"` by Potter WIggert, & Ramasan (ISBN-13: 978-1305637610)
+  - `"Mechanics of Fluid"` by Potter, Wiggert, & Ramasan (ISBN-13: 978-1305637610)
   - Part V of `"Modern Classical Physics"` by Kip Thorne & R. Blandford (ISBN-13: 978-0691159027)
-  1. "Fluid Mechanics", by Frank M. White, McGraw-Hill, 4th ed., 1999.
-2. "Fundamental Mechanics of Fluid", by I. G. Currie, McGraw-Hill, 2nd ed., 1993.
+  - `"Fluid Mechanics"` by Frank M. White, McGraw-Hill, 4th ed., 1999.
+  - `"Fundamental Mechanics of Fluid"` by I. G. Currie, McGraw-Hill, 2nd ed., 1993.
 
 
 
@@ -32,9 +31,6 @@
 ---
 ### week 1 (Feb. 22)
 **overview of fluid mechanics, basic properties of fluid**
-
-*further reading:*
-
 
 ### week 2
 ideal fluid, fluidstatics
@@ -56,7 +52,6 @@ laminor and turbulence flow, Reynolds number
 
 ### week 8 
 midterm exam or report
-
 
 ### week 9 
 boundary layer
