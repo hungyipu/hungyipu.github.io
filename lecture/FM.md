@@ -30,7 +30,7 @@
 
 
 ---
-### week 1
+### week 1 (Feb. 22)
 **overview of fluid mechanics, basic properties of fluid**
 
 *further reading:*
