@@ -42,7 +42,7 @@ basic equations: conservation of mass, momentum, and energy
 basic equations:  differential and integral forms
 
 ### week 5  
-nonviscous flow
+inviscid flow
 
 ### week 6    
 stress, viscotiy, Navier-Stokes equation
