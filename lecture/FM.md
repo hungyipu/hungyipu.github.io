@@ -69,10 +69,10 @@ introduciton to plasma physics and magnetohydrodynamics
 introduction to relativisitc fluid
 
 ### week 14
-applications to astrophysics
+selected topic: fluid dynamics in astrophysics
 
 ### week 15
-applications to earth science
+selected topic: fluid dynamics in earth science
 
 ### week 16
 final exam or report
