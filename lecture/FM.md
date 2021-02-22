@@ -1,6 +1,8 @@
 # Fluid Mechanics
 ---
+> <p align="center"> "Everything flos, nothing stands still."         - Heraclitus  </p>
 
+---
 - time: Monday 13:20 - 16:20 (16 weeks; [calendar](/lecture/GR_pdf/2020calendar.pdf))
 
 - location: S404 
