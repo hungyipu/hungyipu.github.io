@@ -34,7 +34,7 @@
 ### week 1 (Feb. 22)
 **overview of fluid mechanics, fluid element and continuum, shear, basic properties of fluid, Lagrangian and Euler views, d'Alembert's paradox**
 
-[homewoek](/lecture/FD_pdf/hw_week1.pdf) due: week3
+[homework](/lecture/FD_pdf/hw_week1.pdf) (due: week3)
 
 ### week 2
 ideal fluid, Newtonina and non-Newtonian fluid, steady and incompressible flow, fluid statics
