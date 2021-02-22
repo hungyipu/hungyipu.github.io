@@ -37,7 +37,7 @@
 [homework]() due: week3
 
 ### week 2
-ideal fluid, steady and incompressible flow, fluid statics
+ideal fluid, Newtonina and non-Newtonian fluid, steady and incompressible flow, fluid statics
 
 ### week 3 
 basic equations: conservation of mass, momentum, and energy
