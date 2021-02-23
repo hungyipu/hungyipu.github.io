@@ -23,6 +23,7 @@
   3. `"Fluid Dynamics: an introduction"` by Rieutord (ISBN-13: 978-3319360713)
   4. `"Fluid Dynamics: Theory, Computation, and Numerical Simulation"` by Pozrikidis (ISBN-13: 978-1489979902) 
   5. `"The Physics of Fluids and Plasmas (An Introduction for Astrophysicists)"` by Choudhuri (ISBN-13: 978-0521555432)
+  6. `"A Guided Tour of Mathematical Methods for the Physical Sciences" by Snieder` (ISBN-13: 978-1139013543)
 
 
 
@@ -38,7 +39,7 @@
 [homework](/lecture/FD_pdf/hw_week1.pdf) (due: week3)
 
 ### week 2
-ideal fluid, Newtonina and non-Newtonian fluid, steady and incompressible flow, fluid statics, stream lines
+basic methematical tools: divergence, curl, Laplacian, stress tensor, scale analysis. ideal fluid, Newtonina and non-Newtonian fluid, steady and incompressible flow, fluid statics, stream lines
 
 ### week 3 
 basic equations: conservation of mass, momentum, and energy
