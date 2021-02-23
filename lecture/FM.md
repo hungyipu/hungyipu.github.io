@@ -34,7 +34,7 @@
 
 ---
 ### week 1 (Feb. 22)
-**overview of fluid mechanics, fluid element and continuum, shear, calssifications of fluid, Lagrangian and Euler views, d'Alembert's paradox**
+**overview of fluid mechanics, fluid element and continuum, shear, calssifications of fluid, Lagrangian and Eulerian views, d'Alembert's paradox**
 
 [homework](/lecture/FD_pdf/hw_week1.pdf) (due: week3)
 
