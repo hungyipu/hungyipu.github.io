@@ -57,7 +57,7 @@ inviscid and viscous flow, Navier-Stokes equation
 laminar and turbulence flow, Reynolds number
 
 ### week 8 
-midterm exam or report
+midterm exam
 
 ### week 9 
 boundary layer
