@@ -3,6 +3,10 @@
  <p align="center"> "Everything flows, nothing stands still."         - Heraclitus  </p>
 
 ---
+
+#Please login [NTNU moodle](https://moodle3.ntnu.edu.tw/) for the details and homework of this course!
+
+
 - time: Monday 13:20 - 16:20 (16 weeks; [calendar](/lecture/GR_pdf/2020calendar.pdf))
 
 - location: S404 
